@@ -1,4 +1,4 @@
-## rote_resourcen_26l2
+## rote_ressourcen_26l2
 
 ### ⚠️ BIS PROJEKTSTART GEHEIM ⚠️
 
