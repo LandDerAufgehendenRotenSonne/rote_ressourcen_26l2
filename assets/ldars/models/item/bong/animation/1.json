@@ -1,0 +1,7 @@
+{
+  "parent": "ldars:item/bong/base_model",
+  "textures": {
+	"vapor": "ldars:item/bong/vapor/1",
+    "layer0": "ldars:item/bong/animation/1"
+  }
+}
