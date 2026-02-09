@@ -1,0 +1,6 @@
+{
+  "parent": "ldars:block/dirt_filter/empty",
+  "textures": {
+    "fuel": "minecraft:block/dirt"
+  }
+}

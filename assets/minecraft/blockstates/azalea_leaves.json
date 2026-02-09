@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "distance=1,persistent=true": {
+      "model": "ldars:block/dirt_filter/full"
+    },
+    ",distance=2,persistent=true": {
+      "model": "ldars:block/dirt_filter/empty"
+    },
+    "": {
+      "model": "minecraft:block/azalea_leaves"
+    }
+  }
+}
