@@ -15,8 +15,8 @@ Ressourecenpaket für LDARS2, 2026
   - Texturen: Wenn möglich\* immer im `ldars` namespace
     (\* geht bspw für armortrims nicht, für items und blöcke aber schon)
   - Modelle:
-    - Item Models: im `ldars` namespace
-    - Block Models: im `minecraft` namespace
+    - Item Models: im `ldars` namespace (per Item-Model-Definition darauf verweisen)
+    - Block Models: im `ldars` namespace (per Blockstate darauf verweisen)
   - Items-Model-Definitions:
     - Wenn komplett custom: `ldars` namespace
       (z. B. `"lenin"`: `./assets/ldars/items/lenin.json`)
