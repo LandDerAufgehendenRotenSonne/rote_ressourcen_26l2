@@ -8,6 +8,7 @@ Ressourecenpaket für LDARS2, 2026
 
 ##### Im Resourcepack
 - alle Namen auf **Englisch**, **klein** und mit **Snake Case**
+
   ❌ThisIsWrong | ❌das_ist_auch_falsch | ✅this_is_correct
 
 - Namespaces: `ldars`; `minecraft`
