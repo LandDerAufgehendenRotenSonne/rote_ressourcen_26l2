@@ -1,0 +1,6 @@
+{
+  "parent": "ldars:item/pneumatic_tube_system/tube",
+  "textures": {
+    "base": "ldars:item/pneumatic_tube_system/containers/lime"
+  }
+}

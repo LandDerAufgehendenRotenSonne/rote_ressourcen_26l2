@@ -1,0 +1,6 @@
+{
+  "parent": "ldars:item/pneumatic_tube_system/tube_open_back",
+  "textures": {
+    "base": "ldars:item/pneumatic_tube_system/containers/blue"
+  }
+}
