@@ -1,0 +1,17 @@
+{
+  "item.minecraft.wooden_pickaxe": "Holzhammer",
+  "item.minecraft.stone_pickaxe": "Steinhammer",
+  "item.minecraft.copper_pickaxe": "Kupferhammer",
+  "item.minecraft.iron_pickaxe": "Eisenhammer",
+  "item.minecraft.diamond_pickaxe": "Diamanthammer",
+  "item.minecraft.golden_pickaxe": "Goldhammer",
+  "item.minecraft.netherite_pickaxe": "Netherithammer",
+
+  "item.minecraft.wooden_hoe": "Holzsichel",
+  "item.minecraft.stone_hoe": "Steinsichel",
+  "item.minecraft.copper_hoe": "Kupfersichel",
+  "item.minecraft.iron_hoe": "Eisensichel",
+  "item.minecraft.golden_hoe": "Goldsichel",
+  "item.minecraft.diamond_hoe": "Diamantsichel",
+  "item.minecraft.netherite_hoe": "Netheritsichel"
+}
