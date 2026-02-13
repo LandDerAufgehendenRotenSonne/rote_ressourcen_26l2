@@ -2,6 +2,7 @@
 	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
 	"textures": {
+		"missing": "ldars:block/nothing",
 		"inside": "ldars:block/dirt_filter/inside",
 		"top": "ldars:block/dirt_filter/top",
 		"bottom": "ldars:block/dirt_filter/bottom",
