@@ -25,11 +25,6 @@
     },
     {
       "type": "minecraft:single",
-      "resource": "minecraft:block/weathered_chiseled_copper",
-      "sprite": "minecraft:block/_waxed_weathered_chiseled_copper"
-    },
-    {
-      "type": "minecraft:single",
       "resource": "minecraft:block/exposed_chiseled_copper",
       "sprite": "minecraft:block/waxed_exposed_chiseled_copper"
     },
