@@ -1,0 +1,77 @@
+{
+  "sources": [
+    {
+      "type": "minecraft:directory",
+      "prefix": "block/",
+      "source": "block"
+    },
+    {
+      "type": "minecraft:directory",
+      "prefix": "entity/conduit/",
+      "source": "entity/conduit"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:entity/bell/bell_body"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:entity/enchanting_table_book"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:block/blast_furnace_front",
+      "sprite": "minecraft:block/blast_furnace"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:block/exposed_chiseled_copper",
+      "sprite": "minecraft:block/waxed_exposed_chiseled_copper"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:block/weathered_copper",
+      "sprite": "minecraft:block/waxed_weathered_copper"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:block/weathered_chiseled_copper",
+      "sprite": "minecraft:block/waxed_weathered_chiseled_copper"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:block/copper_bulb",
+      "sprite": "minecraft:block/waxed_copper_bulb"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:block/exposed_lightning_rod",
+      "sprite": "minecraft:block/waxed_exposed_lightning_rod"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:block/tuff_bricks",
+      "sprite": "minecraft:block/tuff_brick_stairs"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:block/polished_deepslate",
+      "sprite": "minecraft:block/polished_deepslate_stairs"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:item/hopper",
+      "sprite": "minecraft:block/hopper"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "ldars:block/exposed_copper_chest",
+      "sprite": "minecraft:block/waxed_exposed_copper_chest"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:block/exposed_copper_grate",
+      "sprite": "minecraft:block/waxed_exposed_copper_grate"
+    }
+  ]
+}

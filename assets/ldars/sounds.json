@@ -1,0 +1,18 @@
+{
+  "post/send1": {
+    "sounds": [{
+      "name" : "ldars:post/send"
+    }]
+  },
+  "post/send2": {
+    "sounds": [{
+      "name" : "ldars:post/send2"
+    }]
+  },
+  "post/recieved": {
+    "sounds": [{
+      "name" : "ldars:post/recieved",
+	  "attenuation_distance" : 25
+    }]
+  }
+}
