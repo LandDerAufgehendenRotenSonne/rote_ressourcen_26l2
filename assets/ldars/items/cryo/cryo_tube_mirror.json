@@ -1,0 +1,23 @@
+{
+    "model": {
+        "type": "minecraft:composite",
+        "models": [
+            {
+                "type": "minecraft:model",
+                "model": "ldars:item/cryo/cryo_tube_small"
+            },
+            {
+                "type": "minecraft:model",
+                "model": "ldars:item/cryo/cryo_tube_small_shift"
+            },
+            {
+                "type": "minecraft:model",
+                "model": "ldars:item/cryo/cryo_tube_big"
+            },
+            {
+                "type": "minecraft:model",
+                "model": "ldars:item/cryo/cryo_tube_big_shift_negative"
+            }
+        ]
+    }
+}

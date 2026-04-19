@@ -1,0 +1,8 @@
+{
+  "parent": "ldars:item/cryo/main_chamber",
+  "textures": {
+		"animation": "ldars:block/cryo/main_chamber_animations_open",
+		"closed": "ldars:block/nothing",
+		"open": "ldars:block/cryo/main_chamber"
+  }
+}

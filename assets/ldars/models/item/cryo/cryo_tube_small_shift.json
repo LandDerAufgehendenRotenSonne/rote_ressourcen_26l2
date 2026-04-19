@@ -1,0 +1,8 @@
+{
+  "parent": "ldars:item/cryo/cryo_tube_small",
+	"display": {
+		"head": {
+			"translation": [16, 0, 0]
+		}
+	}
+}
