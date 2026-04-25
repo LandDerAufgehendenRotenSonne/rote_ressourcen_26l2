@@ -7,7 +7,7 @@
       "model": "ldars:block/dirt_filter/empty"
     },
     "": {
-      "model": "minecraft:block/azalea_leaves"
+      "model": "minecraft:block/dark_oak_leaves"
     }
   }
 }
