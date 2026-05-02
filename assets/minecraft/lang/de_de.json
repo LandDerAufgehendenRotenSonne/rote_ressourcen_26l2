@@ -91,5 +91,10 @@
   "advancements.husbandry.breed_an_animal.title": "Freilandhaltung",
   
   "advancements.adventure.kill_a_mob.description": "Töte eine feindliche Kreatur",
-  "advancements.adventure.kill_a_mob.title": "Klassenfeinde ausschalten"
+  "advancements.adventure.kill_a_mob.title": "Klassenfeinde ausschalten",
+
+  "block.minecraft.purpur_block": "Popoblock",
+  "block.minecraft.purpur_pillar": "Poposäule",
+  "block.minecraft.purpur_slab": "Popostufe",
+  "block.minecraft.purpur_stairs": "Popotreppe"
 }
