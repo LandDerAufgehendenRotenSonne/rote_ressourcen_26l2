@@ -1,0 +1,9 @@
+{
+    "parent": "ldars:item/subway/wagon",
+	"textures": {
+		"glass_door_north": "ldars:block/nothing",
+		"glass_door_north_top": "ldars:block/nothing",
+		"glass_door_south": "ldars:block/nothing",
+		"glass_door_south_top": "ldars:block/nothing"
+	}
+}
