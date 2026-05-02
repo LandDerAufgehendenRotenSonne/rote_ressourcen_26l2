@@ -19,7 +19,7 @@ jobs:
       - name: Create ZIP archive
         run: |
           mkdir -p dist
-          zip -r dist/your-project.zip . \
+          zip -r dist/rote_ressourcen_26l2.zip . \
             --exclude "*.git*" \
             --exclude ".github/*" \
             --exclude ".idea/" \
@@ -55,8 +55,8 @@ jobs:
       - name: Create GitHub Release in releases repo
         uses: softprops/action-gh-release@v2
         with:
-          token: ${{ secrets.PRIVATE_TO_PUBLIC }}
-          repository: ${{ secrets.OTHER_REPO_TOKEN }}
+          token: ${{ secrets.OTHER_REPO_TOKEN }}
+          repository: ${{ vars.OTHER_REPO }}
           tag_name: "latest"
           name: "Latest Version"
           body: "Automatisch erstellte neuste Version des Packs"
