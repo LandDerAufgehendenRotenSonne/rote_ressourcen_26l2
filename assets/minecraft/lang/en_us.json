@@ -6,6 +6,22 @@
 
 
   "item.ldars.pneumatic_tube_system_container": "Pneumatic Tube",
+  "item.ldars.pneumatic_tube_system_container_white": "White Pneumatic Tube",
+  "item.ldars.pneumatic_tube_system_container_light_gray": "Light Gray Pneumatic Tube",
+  "item.ldars.pneumatic_tube_system_container_gray": "Gray Pneumatic Tube",
+  "item.ldars.pneumatic_tube_system_container_black": "Black Pneumatic Tube",
+  "item.ldars.pneumatic_tube_system_container_brown": "Brown Pneumatic Tube",
+  "item.ldars.pneumatic_tube_system_container_red": "Red Pneumatic Tube",
+  "item.ldars.pneumatic_tube_system_container_orange": "Orange Pneumatic Tube",
+  "item.ldars.pneumatic_tube_system_container_yellow": "Yellow Pneumatic Tube",
+  "item.ldars.pneumatic_tube_system_container_lime": "Lime Pneumatic Tube",
+  "item.ldars.pneumatic_tube_system_container_green": "Green Pneumatic Tube",
+  "item.ldars.pneumatic_tube_system_container_cyan": "Cyan Pneumatic Tube",
+  "item.ldars.pneumatic_tube_system_container_light_blue": "Light Blue Pneumatic Tube",
+  "item.ldars.pneumatic_tube_system_container_blue": "Blue Pneumatic Tube",
+  "item.ldars.pneumatic_tube_system_container_purple": "Purple Pneumatic Tube",
+  "item.ldars.pneumatic_tube_system_container_magenta": "Magenta Pneumatic Tube",
+  "item.ldars.pneumatic_tube_system_container_pink": "Pink Pneumatic Tube",
 
   "item.minecraft.wooden_pickaxe": "Wooden Hammer",
   "item.minecraft.stone_pickaxe": "Stone Hammer",

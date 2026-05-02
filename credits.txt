@@ -1,0 +1,4 @@
+The LDARS pack uses Vanilla Tweaks for firefly bushes and a different color map texture.
+
+Credits:
+Vanilla Tweaks: https://vanillatweaks.net/
