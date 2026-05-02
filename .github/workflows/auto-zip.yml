@@ -1,0 +1,65 @@
+name: Create ZIP on push, publish in public repository
+
+on:
+  push:
+    branches: [ main, master ]
+
+jobs:
+  create-zip:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      # --- check out this repo ---
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      # --- make stuff into a zip ---
+      - name: Create ZIP archive
+        run: |
+          mkdir -p dist
+          zip -r dist/your-project.zip . \
+            --exclude "*.git*" \
+            --exclude ".github/*" \
+            --exclude ".idea/" \
+            --exclude "node_modules/*" \
+            --exclude "*.zip" \
+            --exclude  "dist/"
+
+      # --- check out the releases repo ---
+      - name: Checkout releases repo
+        uses: actions/checkout@v4
+        with:
+          repository: ${{ vars.OTHER_REPO }}
+          token: ${{ secrets.OTHER_REPO_TOKEN }}
+          path: releases-repo
+
+      # --- copy zip into the other repo ---
+      - name: Copy artifacts
+        run: |
+          mkdir -p releases-repo/bin
+          cp -r dist/* releases-repo/bin/
+
+      # --- commit & push ---
+      - name: Commit and push
+        working-directory: releases-repo
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "Release ${{ github.ref_name }}" || echo "Nothing to commit"
+          git push
+
+      # --- publish zip file over there as release ---
+      - name: Create GitHub Release in releases repo
+        uses: softprops/action-gh-release@v2
+        with:
+          token: ${{ secrets.PRIVATE_TO_PUBLIC }}
+          repository: ${{ secrets.OTHER_REPO_TOKEN }}
+          tag_name: "latest"
+          name: "Latest Version"
+          body: "Automatisch erstellte neuste Version des Packs"
+          files: dist/*
+          make_latest: true
+          generate_release_notes: true
