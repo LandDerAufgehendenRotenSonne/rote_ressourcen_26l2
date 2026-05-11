@@ -16,6 +16,9 @@
   "item.ldars.pneumatic_tube_system_container_purple": "Violette Rohrpostbüchse",
   "item.ldars.pneumatic_tube_system_container_magenta": "Magenta Rohrpostbüchse",
   "item.ldars.pneumatic_tube_system_container_pink": "Rosa Rohrpostbüchse",
+  
+  "item.ldars.writable_letter": "Unfertiger Brief",
+  "item.ldars.written_letter": "Brief",
 
   "item.minecraft.wooden_pickaxe": "Holzhammer",
   "item.minecraft.stone_pickaxe": "Steinhammer",

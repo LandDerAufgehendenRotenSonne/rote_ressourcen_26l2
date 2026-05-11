@@ -22,6 +22,9 @@
   "item.ldars.pneumatic_tube_system_container_purple": "Purple Pneumatic Tube",
   "item.ldars.pneumatic_tube_system_container_magenta": "Magenta Pneumatic Tube",
   "item.ldars.pneumatic_tube_system_container_pink": "Pink Pneumatic Tube",
+  
+  "item.ldars.writable_letter": "Writable Letter",
+  "item.ldars.written_letter": "Letter",
 
   "item.minecraft.wooden_pickaxe": "Wooden Hammer",
   "item.minecraft.stone_pickaxe": "Stone Hammer",
