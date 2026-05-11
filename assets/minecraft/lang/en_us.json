@@ -25,6 +25,8 @@
   
   "item.ldars.writable_letter": "Writable Letter",
   "item.ldars.written_letter": "Letter",
+  "item.ldars.invisible_item_frame": "Invisible Item Frame",
+  "item.ldars.invisible_glow_item_frame": "Invisible Glow Item Frame",
 
   "item.minecraft.wooden_pickaxe": "Wooden Hammer",
   "item.minecraft.stone_pickaxe": "Stone Hammer",

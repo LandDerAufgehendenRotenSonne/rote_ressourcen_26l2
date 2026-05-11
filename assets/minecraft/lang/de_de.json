@@ -19,6 +19,8 @@
   
   "item.ldars.writable_letter": "Unfertiger Brief",
   "item.ldars.written_letter": "Brief",
+  "item.ldars.invisible_item_frame": "Unsichtbarer Rahmen",
+  "item.ldars.invisible_glow_item_frame": "Unsichtbarer Leuchtrahmen",
 
   "item.minecraft.wooden_pickaxe": "Holzhammer",
   "item.minecraft.stone_pickaxe": "Steinhammer",
