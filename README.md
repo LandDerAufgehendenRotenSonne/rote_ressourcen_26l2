@@ -23,7 +23,7 @@ Ressourecenpaket für LDARS2, 2026
       (z. B. `"lenin"`: `./assets/ldars/items/lenin.json`)
     - Bei überschreiben von vanilla items: `minecraft` namespace
       (z. B. `"potion"`: `./assets/minecraft/items/potion.json`)
-- Für Custom Item Namen: Immer translation für Englisch und Deutsch anfertigen und als Fallback "! Missing Ressource Pack !" angeben.
+- Für Custom Item Namen: Immer translation für Englisch und Deutsch anfertigen und als Fallback "! Missing Resource Pack !" angeben.
     
 ##### Im Git
 - commits auf Deutsch
