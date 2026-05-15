@@ -16,7 +16,26 @@
   "item.ldars.pneumatic_tube_system_container_purple": "Violette Rohrpostbüchse",
   "item.ldars.pneumatic_tube_system_container_magenta": "Magenta Rohrpostbüchse",
   "item.ldars.pneumatic_tube_system_container_pink": "Rosa Rohrpostbüchse",
+ 
+  "name.item.ldars.zionist_plum": "Unholy™ Zionisten Zwetschge",
+  "name.item.ldars.pali_peach": "Unholy™ Pali Pfirsich",
+  "name.item.ldars.holy_raspberry": "Unholy™ Heilige Himbeer",
+  "name.item.ldars.unicorn_strawberry": "Unholy™ Einhorn Erdbeer",
   
+  "name.item.ldars.antidox": "Antidox",
+  "name.item.ldars.sterile_resin": "Steriles Pflanzenharz",
+  "name.item.ldars.healing_potion1": "Heilungstrank Level 1",
+  "name.item.ldars.healing_potion2": "Heilungstrank Level 2",
+  "name.item.ldars.stim_juice": "Stimsaft",
+  "name.item.ldars.rad_away_potion": "Rad-Away Trank",
+  "name.item.ldars.fuel_rod": "Brennstab",
+  
+  "name.item.ldars.hazmat_suit.helmet": "Strahlenschutzanzug Helm",
+  "name.item.ldars.hazmat_suit.chestplate": "Strahlenschutzanzug Brustplatte",
+  "name.item.ldars.hazmat_suit.leggins": "Strahlenschutzanzug Hose",
+  "name.item.ldars.hazmat_suit.boots": "Strahlenschutzanzug Schuhe",
+  "name.item.ldars.diving_mask": "Tauchermaske",
+
   "item.ldars.writable_letter": "Unfertiger Brief",
   "item.ldars.written_letter": "Brief",
   "item.ldars.invisible_item_frame": "Unsichtbarer Rahmen",
