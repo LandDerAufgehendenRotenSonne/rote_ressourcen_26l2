@@ -34,7 +34,6 @@
   "name.item.ldars.healing_potion2": "Heilungstrank Level 2",
   "name.item.ldars.stim_juice": "Stimsaft",
   "name.item.ldars.rad_away_potion": "Rad-Away Potion",
-  "name.item.ldars.fuel_rod": "Fuel Rod",
   
   "name.item.ldars.hazmat_suit.helmet": "Hazmat Suit Helmet",
   "name.item.ldars.hazmat_suit.chestplate": "Hazmat Suit Chestplate",
@@ -46,6 +45,8 @@
   "item.ldars.written_letter": "Letter",
   "item.ldars.invisible_item_frame": "Invisible Item Frame",
   "item.ldars.invisible_glow_item_frame": "Invisible Glow Item Frame",
+
+  "item.minecraft.blaze_rod": "Fuel Rod",
 
   "item.minecraft.wooden_pickaxe": "Wooden Hammer",
   "item.minecraft.stone_pickaxe": "Stone Hammer",

@@ -28,7 +28,6 @@
   "name.item.ldars.healing_potion2": "Heilungstrank Level 2",
   "name.item.ldars.stim_juice": "Stimsaft",
   "name.item.ldars.rad_away_potion": "Rad-Away Trank",
-  "name.item.ldars.fuel_rod": "Brennstab",
   
   "name.item.ldars.hazmat_suit.helmet": "Strahlenschutzanzug Helm",
   "name.item.ldars.hazmat_suit.chestplate": "Strahlenschutzanzug Brustplatte",
@@ -40,6 +39,8 @@
   "item.ldars.written_letter": "Brief",
   "item.ldars.invisible_item_frame": "Unsichtbarer Rahmen",
   "item.ldars.invisible_glow_item_frame": "Unsichtbarer Leuchtrahmen",
+
+  "item.minecraft.blaze_rod": "Brennstab",
 
   "item.minecraft.wooden_pickaxe": "Holzhammer",
   "item.minecraft.stone_pickaxe": "Steinhammer",
