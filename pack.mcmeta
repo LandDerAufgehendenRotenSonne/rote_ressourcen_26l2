@@ -9,7 +9,7 @@
     ],
     "description": [
       {"text":"LDARS-2", "color":"#ae0000"},
-      {"text":" Ionisierung", "color":"#d4ff36", "bold":true},
+      {"text":" Ground Zero", "color":"#d4ff36", "bold":true},
       {"text":"\n(2026, v0.00, ", "color":"dark_gray"},
       {"player":"violmia", "color": "white"},
       {"player":"Monsbot", "color": "white"},
