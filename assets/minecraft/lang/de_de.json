@@ -43,6 +43,14 @@
   "item.ldars.written_letter": "Brief",
   "item.ldars.invisible_item_frame": "Unsichtbarer Rahmen",
   "item.ldars.invisible_glow_item_frame": "Unsichtbarer Leuchtrahmen",
+  
+  "gui.ldars.radiation.geiger_counter": "Strahlungslevel: ",
+  "gui.ldars.radiation.geiger_counter.sound_on": "Geigerzähler Ton aktiviert",
+  "gui.ldars.radiation.geiger_counter.sound_off": "Geigerzähler Ton deaktiviert",
+  "gui.ldars.radiation.dosimeter.self": "Persönliches Strahlungslevel: ",
+  "gui.ldars.radiation.dosimeter.other": "Strahlungslevel: ",
+  "gui.ldars.radiation.notification": "Du fühlst dich etwas seltsam...",
+  "death.ldars.radiation": "Viel der Strahlung zum Opfer",
 
 
   "item.minecraft.blaze_rod": "Brennstab",

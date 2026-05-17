@@ -37,7 +37,7 @@
   "name.item.ldars.geiger_counter": "Geiger Counter",
   "description.item.ldars.geiger_counter": "A device for detecting radiation in the surrounding area",
   "name.item.ldars.dosimeter": "Dosimeter",
-  "description.item.ldars.dosimeter": "A device for detecting your own radiation",
+  "description.item.ldars.dosimeter": "A device for detecting your own radiation \n Line 2 Text",
   
   "name.item.ldars.hazmat_suit.helmet": "Hazmat Suit Helmet",
   "name.item.ldars.hazmat_suit.chestplate": "Hazmat Suit Chestplate",
@@ -49,6 +49,14 @@
   "item.ldars.written_letter": "Letter",
   "item.ldars.invisible_item_frame": "Invisible Item Frame",
   "item.ldars.invisible_glow_item_frame": "Invisible Glow Item Frame",
+  
+  "gui.ldars.radiation.geiger_counter": "Radiation: ",
+  "gui.ldars.radiation.geiger_counter.sound_on": "Geigercounter sound enabled",
+  "gui.ldars.radiation.geiger_counter.sound_off": "Geigercounter sound disabled",
+  "gui.ldars.radiation.dosimeter.self": "Personal Radiation: ",
+  "gui.ldars.radiation.dosimeter.other": "Radiation: ",
+  "gui.ldars.radiation.notification": "You are feeling a bit strange...",
+  "death.ldars.radiation": "Succumb to lethal radiation",
 
 
   "item.minecraft.blaze_rod": "Fuel Rod",
