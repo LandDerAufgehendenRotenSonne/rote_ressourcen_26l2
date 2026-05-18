@@ -51,12 +51,12 @@
   "item.ldars.invisible_glow_item_frame": "Invisible Glow Item Frame",
   
   "gui.ldars.radiation.geiger_counter": "Radiation: ",
-  "gui.ldars.radiation.geiger_counter.sound_on": "Geigercounter sound enabled",
-  "gui.ldars.radiation.geiger_counter.sound_off": "Geigercounter sound disabled",
+  "gui.ldars.radiation.geiger_counter.sound_on": "Geiger Counter sound enabled",
+  "gui.ldars.radiation.geiger_counter.sound_off": "Geiger Counter sound disabled",
   "gui.ldars.radiation.dosimeter.self": "Personal Radiation: ",
   "gui.ldars.radiation.dosimeter.other": "Radiation: ",
   "gui.ldars.radiation.notification": "You are feeling a bit strange...",
-  "death.ldars.radiation": "Succumb to lethal radiation",
+  "death.ldars.radiation": "succumbed to lethal radiation",
 
 
   "item.minecraft.blaze_rod": "Fuel Rod",
