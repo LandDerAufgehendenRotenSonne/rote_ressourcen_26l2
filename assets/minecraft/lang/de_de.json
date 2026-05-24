@@ -16,6 +16,8 @@
   "item.ldars.pneumatic_tube_system_container_purple": "Violette Rohrpostbüchse",
   "item.ldars.pneumatic_tube_system_container_magenta": "Magenta Rohrpostbüchse",
   "item.ldars.pneumatic_tube_system_container_pink": "Rosa Rohrpostbüchse",
+  "subtitles.ldars.pneumatic_tube_system.send": "Rohrpoststation Abschuss",
+  "subtitles.ldars.pneumatic_tube_system.recieve": "Rohrpoststation Jingle",
  
   "name.item.ldars.zionist_plum": "Unholy™ Zionisten Zwetschge",
   "name.item.ldars.pali_peach": "Unholy™ Pali Pfirsich",

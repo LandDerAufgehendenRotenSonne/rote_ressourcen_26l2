@@ -22,6 +22,8 @@
   "item.ldars.pneumatic_tube_system_container_purple": "Purple Pneumatic Tube",
   "item.ldars.pneumatic_tube_system_container_magenta": "Magenta Pneumatic Tube",
   "item.ldars.pneumatic_tube_system_container_pink": "Pink Pneumatic Tube",
+  "subtitles.ldars.pneumatic_tube_system.send": "Pneumatic Tube Station firing",
+  "subtitles.ldars.pneumatic_tube_system.recieve": "Pneumatic Tube Station Jingle",
   
   "name.item.ldars.zionist_plum": "Unholy™ Zionisten Zwetschge",
   "name.item.ldars.pali_peach": "Unholy™ Pali Pfirsich",
