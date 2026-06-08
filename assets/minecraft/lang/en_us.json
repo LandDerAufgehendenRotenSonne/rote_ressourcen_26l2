@@ -4,7 +4,7 @@
   "container.furnace": "",
   "container.inventory": "",
 
-
+  "name.item.ldars.pneumatic_tube_system.spawn": "Pneumatic Tube Station",
   "name.item.ldars.pneumatic_tube_system.container": "Pneumatic Tube",
   "name.item.ldars.pneumatic_tube_system.container_white": "White Pneumatic Tube",
   "name.item.ldars.pneumatic_tube_system.container_light_gray": "Light Gray Pneumatic Tube",
