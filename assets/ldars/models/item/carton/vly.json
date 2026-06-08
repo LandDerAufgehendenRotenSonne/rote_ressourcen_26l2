@@ -1,0 +1,6 @@
+{
+  "parent": "ldars:item/carton/big_carton",
+	"textures": {
+		"0": "ldars:item/carton/vly"
+	}
+}
