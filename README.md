@@ -1,8 +1,11 @@
 ## rote_ressourcen_26l2
 
-### ⚠️ BIS PROJEKTSTART GEHEIM ⚠️ </br>(könnte Spoiler beinhalten)
+### ⚠️ BIS PROJEKTSTART GEHEIM ⚠️
 
-Ressourecenpaket für LDARS2, 2026
+Ressourecenpaket für LDARS-2, 2026
+
+[<img width="400px" alt="Download Badge" src="https://shieldcn.dev/badge/rote_ressourcen_26l2.zip-Download-22c55e.svg?mode=light&logo=ri%3ATbDownload">](https://github.com/TobSnom269/superdupergeheim/releases/download/latest/rote_ressourcen_26l2.zip)
+</br><sub>(https://github.com/TobSnom269/superdupergeheim/releases/download/latest/rote_ressourcen_26l2.zip)</sub>
 
 #### Guidelines:
 
