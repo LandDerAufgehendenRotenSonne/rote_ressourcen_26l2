@@ -1,6 +1,7 @@
 name: Create ZIP on push, publish in public repository
 
 on:
+  workflow_dispatch: 
   push:
     branches: [ main, master ]
 
