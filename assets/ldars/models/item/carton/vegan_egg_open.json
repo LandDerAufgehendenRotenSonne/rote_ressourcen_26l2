@@ -1,0 +1,8 @@
+{
+	"parent": "ldars:item/carton/small_carton",
+	"textures": {
+		"main_texture": "ldars:item/carton/vegan_egg",
+		"particle": "ldars:item/carton/vegan_egg",
+		"cap": "ldars:item/carton/cap_open"
+	}
+}

@@ -1,8 +1,9 @@
 ## rote_ressourcen_26l2
+Ressourecenpaket für LDARS-2, 2026 <img width="70px">  (⚠️ BIS PROJEKTSTART GEHEIM ⚠️)
 
-### ⚠️ BIS PROJEKTSTART GEHEIM ⚠️ </br>(könnte Spoiler beinhalten)
+[<img width="400px" alt="Download Badge" src="https://shieldcn.dev/badge/rote_ressourcen_26l2.zip-Download-22c55e.svg?mode=light&logo=ri%3ATbDownload">](https://github.com/TobSnom269/superdupergeheim/releases/download/latest/rote_ressourcen_26l2.zip)
+</br><sub>(https://github.com/TobSnom269/superdupergeheim/releases/download/latest/rote_ressourcen_26l2.zip)</sub>
 
-Ressourecenpaket für LDARS2, 2026
 
 #### Guidelines:
 
@@ -26,4 +27,4 @@ Ressourecenpaket für LDARS2, 2026
 - Für Custom Item Namen: Immer translation für Englisch und Deutsch anfertigen und als Fallback "! Missing Resource Pack !" angeben.
     
 ##### Im Git
-- commits auf Deutsch
+- commits auf Deutsch oder Englisch ist eigentlich egal
