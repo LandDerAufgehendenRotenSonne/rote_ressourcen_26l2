@@ -27,10 +27,10 @@
   "advancements.ldars.pneumatic_tube_system.name.root": "Pneumatic Tube System",
   "advancements.ldars.pneumatic_tube_system.description.root": "Red Sun Post",
   "advancements.ldars.pneumatic_tube_system.name.placed": "That's mine!",
-  "advancements.ldars.pneumatic_tube_system.description.placed": "Place your very own (publically owned) Pneumatic Tube Station",
+  "advancements.ldars.pneumatic_tube_system.description.placed": "Place your very own (publicly owned) Pneumatic Tube Station",
   "advancements.ldars.pneumatic_tube_system.name.sent1": "Flop",
   "advancements.ldars.pneumatic_tube_system.description.sent1": "Send your first Pneumatic Tube",
-  "advancements.ldars.pneumatic_tube_system.name.sent10": "Now we are talking",
+  "advancements.ldars.pneumatic_tube_system.name.sent10": "Now we're talking",
   "advancements.ldars.pneumatic_tube_system.description.sent10": "Send 10 Pneumatic Tubes",
   "advancements.ldars.pneumatic_tube_system.name.sent20": "Pen Pal",
   "advancements.ldars.pneumatic_tube_system.description.sent20": "Send 20 Pneumatic Tubes",
@@ -90,7 +90,9 @@
   "name.item.ldars.geiger_counter": "Geiger Counter",
   "description.item.ldars.geiger_counter": "A device for detecting radiation in the surrounding area",
   "name.item.ldars.dosimeter": "Dosimeter",
-  "description.item.ldars.dosimeter": "A device for detecting your own radiation \n Line 2 Text",
+  "description.item.ldars.dosimeter.l1": "A device for detecting your own radiation",
+  "description.item.ldars.dosimeter.l2": "Can also be used to get the radiation level of",
+  "description.item.ldars.dosimeter.l3": "another player by right clicking them.",
   
   "name.item.ldars.hazmat_suit.helmet": "Hazmat Suit Helmet",
   "name.item.ldars.hazmat_suit.chestplate": "Hazmat Suit Chestplate",
@@ -112,7 +114,6 @@
   "death.ldars.radiation": "succumbed to lethal radiation",
   "gui.ldars.radiation.world_border.notification": "Thick fog is rolling in. You should turn back here.",
   "death.ldars.radiation.world_border.death": "has discovered, that only their dreams know no bounds",
-
 
   "item.minecraft.blaze_rod": "Fuel Rod",
 
