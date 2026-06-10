@@ -27,4 +27,4 @@ Ressourecenpaket für LDARS-2, 2026 <img width="70px">  (⚠️ BIS PROJEKTSTART
 - Für Custom Item Namen: Immer translation für Englisch und Deutsch anfertigen und als Fallback "! Missing Resource Pack !" angeben.
     
 ##### Im Git
-- commits auf Deutsch
+- commits auf Deutsch oder Englisch ist eigentlich egal
