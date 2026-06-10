@@ -5,7 +5,7 @@ Ressourecenpaket für LDARS-2, 2026 <img width="70px">  (⚠️ BIS PROJEKTSTART
 </br><sub>(https://github.com/TobSnom269/superdupergeheim/releases/download/latest/rote_ressourcen_26l2.zip)</sub>
 
 
-#### Guidelines:
+#### Konvention:
 
 ##### Im Resourcepack
 - alle Namen auf **Englisch**, **klein** und mit **Snake Case**
@@ -25,6 +25,11 @@ Ressourecenpaket für LDARS-2, 2026 <img width="70px">  (⚠️ BIS PROJEKTSTART
     - Bei überschreiben von vanilla items: `minecraft` namespace
       (z. B. `"potion"`: `./assets/minecraft/items/potion.json`)
 - Für Custom Item Namen: Immer translation für Englisch und Deutsch anfertigen und als Fallback "! Missing Resource Pack !" angeben.
+- Für die language files gillt:
+    - Für Item Namen: `name.item.ldars.(...)`
+    - Für Item Descriptions: `description.item.ldars.(...)`
+    - (...): ab hier kann die eigentliche Item bezeichnung kommen. Solltet ihr mehrere Items hinzüfügen die einer gleichen Übergruppe zugeordnet werden können, macht das bitte mit neuen abschnitten (zb.: `name.item.ldars.*vegan*.vegan_egg`). "vegan" ist hier quasi wie ein neuer Unterordner.
+    - Für alles weitere einfach dieser generellen Struktur folgen und einfach an dem orientieren, was schon vorhanden ist.
     
 ##### Im Git
 - commits auf Deutsch oder Englisch ist eigentlich egal
