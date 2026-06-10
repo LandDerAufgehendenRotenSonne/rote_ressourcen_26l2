@@ -84,7 +84,9 @@
   "name.item.ldars.geiger_counter": "Geigerzähler",
   "description.item.ldars.geiger_counter": "Ein Gerät zum messen der Radioaktiven Strahlung in der Umgebung",
   "name.item.ldars.dosimeter": "Dosimeter",
-  "description.item.ldars.dosimeter": "Ein Gerät zum messen der eigenen Radioaktiven Strahlung",
+  "description.item.ldars.dosimeter.l1": "Ein gerät zum essen der eigenen Radioaktiven Strahlung",
+  "description.item.ldars.dosimeter.l2": "Kann auch genutzt werden um das Strahlungslevel eines",
+  "description.item.ldars.dosimeter.l3": "Anderen Spielers herauszufinden indem man diesen Rechtsklickt.",
   
   "name.item.ldars.hazmat_suit.helmet": "Strahlenschutzanzug Helm",
   "name.item.ldars.hazmat_suit.chestplate": "Strahlenschutzanzug Brustplatte",
@@ -96,6 +98,10 @@
   "item.ldars.written_letter": "Brief",
   "item.ldars.invisible_item_frame": "Unsichtbarer Rahmen",
   "item.ldars.invisible_glow_item_frame": "Unsichtbarer Leuchtrahmen",
+
+  "description.item.ldars.skills.farmer.food.generic.l1": "% mehr Sättigung",
+  "description.item.ldars.skills.farmer.food.generic.l2.lvl1": "Kann bestimmte Effekte geben (Standard)",
+  "description.item.ldars.skills.farmer.food.generic.l2.lvl2": "Kann bestimmte Effekte geben (Stark)",
   
   "gui.ldars.radiation.geiger_counter": "Strahlungslevel: ",
   "gui.ldars.radiation.geiger_counter.sound_on": "Geigerzähler Ton aktiviert",
