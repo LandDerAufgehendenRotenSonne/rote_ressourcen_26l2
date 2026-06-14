@@ -1,0 +1,59 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"texture_size": [80, 80],
+	"textures": {
+		"0": "ldars:item/bunkerplan/front",
+		"1": "ldars:item/bunkerplan/back",
+		"2": "ldars:item/bunkerplan/glass",
+		"particle": "ldars:item/bunkerplan/front"
+	},
+	"elements": [
+		{
+			"from": [-16, -16, 7],
+			"to": [32, 32, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 6]},
+			"faces": {
+				"north": {"uv": [0, 6.4, 9.6, 16], "texture": "#0"},
+				"east": {"uv": [0, 6.4, 0.2, 16], "texture": "#0"},
+				"south": {"uv": [6.4, 6.4, 16, 16], "texture": "#1"},
+				"down": {"uv": [9.6, 15.8, 0, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [-16, -16, 5],
+			"to": [32, -15, 7],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, -16, 6]},
+			"faces": {
+				"north": {"uv": [0, 15.8, 9.6, 16], "texture": "#0"},
+				"east": {"uv": [0, 15.8, 0.2, 16], "texture": "#0"},
+				"up": {"uv": [9.6, 16, 0, 15.8], "texture": "#0"},
+				"down": {"uv": [9.6, 15.8, 0, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [31, -15, 5],
+			"to": [32, 32, 7],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, -15, 6]},
+			"faces": {
+				"north": {"uv": [0, 6.4, 0.2, 15.8], "texture": "#0"},
+				"east": {"uv": [0, 6.4, 0.2, 15.8], "texture": "#0"},
+				"west": {"uv": [0, 6.4, 0.2, 15.8], "texture": "#0"}
+			}
+		},
+		{
+			"from": [-16, -15, 6],
+			"to": [31, 32, 6],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 5]},
+			"faces": {
+				"north": {"uv": [0.2, 6.4, 9.6, 15.8], "texture": "#2"},
+				"south": {"uv": [9.6, 6.4, 0.2, 15.8], "texture": "#2"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [16, -16, 0]
+		}
+	}
+}

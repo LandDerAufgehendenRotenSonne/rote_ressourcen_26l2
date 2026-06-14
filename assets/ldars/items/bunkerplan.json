@@ -1,0 +1,23 @@
+{
+    "model": {
+        "type": "minecraft:composite",
+        "models": [
+            {
+                "type": "minecraft:model",
+                "model": "ldars:item/bunkerplan/left_up"
+            },
+            {
+                "type": "minecraft:model",
+                "model": "ldars:item/bunkerplan/right_up"
+            },
+            {
+                "type": "minecraft:model",
+                "model": "ldars:item/bunkerplan/left_down"
+            },
+            {
+                "type": "minecraft:model",
+                "model": "ldars:item/bunkerplan/right_down"
+            }
+        ]
+    }
+}
