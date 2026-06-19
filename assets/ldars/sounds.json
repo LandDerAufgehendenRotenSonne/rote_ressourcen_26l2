@@ -16,5 +16,10 @@
 	  "attenuation_distance" : 25
     }],
 	"subtitle": "subtitles.ldars.pneumatic_tube_system.recieve"
+  },
+  "bunker/schleuse": {
+    "sounds": [{
+      "name" : "ldars:bunker/schleuse"
+    }]
   }
 }
