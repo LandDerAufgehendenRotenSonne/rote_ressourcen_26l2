@@ -1,9 +1,4 @@
-
-
 {
-  "container.furnace": "",
-  "container.inventory": "",
-
   "name.item.ldars.pneumatic_tube_system.spawn": "Pneumatic Tube Station",
   "name.item.ldars.pneumatic_tube_system.container": "Pneumatic Tube",
   "name.item.ldars.pneumatic_tube_system.container_white": "White Pneumatic Tube",
@@ -75,7 +70,6 @@
   "advancements.ldars.pneumatic_tube_system.name.letter": "A letter for me",
   "advancements.ldars.pneumatic_tube_system.description.letter": "Craft a Letter",
   
-  
   "name.item.ldars.zionist_plum": "Unholy™ Zionisten Zwetschge",
   "name.item.ldars.pali_peach": "Unholy™ Pali Pfirsich",
   "name.item.ldars.holy_raspberry": "Unholy™ Heilige Himbeer",
@@ -119,7 +113,6 @@
   "death.ldars.radiation": "succumbed to lethal radiation",
   "gui.ldars.radiation.world_border.notification": "Thick fog is rolling in. You should turn back here.",
   "death.ldars.radiation.world_border.death": "has discovered, that only their dreams know no bounds",
-
 
   "item.ldars.mobs.touchmenot": "Touchmenot",
   "item.ldars.mobs.botfly": "Botfly",
