@@ -1,0 +1,571 @@
+{
+	"credit": "Made with Blockbench",
+	"textureSize": [64, 32],
+	"models": [
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [0, -18, 0],
+			"boxes": [
+				{"coordinates": [-4, 18, -4, 8, 8, 8], "textureOffset": [0, 0]}
+			]
+		},
+		{
+			"part": "body",
+			"id": "body",
+			"invertAxis": "xy",
+			"translate": [0, -18, 0],
+			"boxes": [
+				{"coordinates": [-4, 6, -2, 8, 12, 4], "textureOffset": [16, 16]}
+			],
+			"submodels": [
+				{
+					"id": "custom",
+					"invertAxis": "xy",
+					"translate": [-1, 22, 1],
+					"submodels": [
+						{
+							"id": "center_stem",
+							"invertAxis": "xy",
+							"translate": [1, -6.5, -1],
+							"submodels": [
+								{
+									"id": "branch1",
+									"invertAxis": "xy",
+									"translate": [-1.75, -7.5, -3],
+									"submodels": [
+										{
+											"id": "rot2",
+											"invertAxis": "xy",
+											"translate": [0, 2.5, 0],
+											"rotate": [0, 45, 0],
+											"boxes": [
+												{
+													"coordinates": [0, -2.5, -1, 0, 5, 2],
+													"uvEast": [60, 0, 62, 5],
+													"uvWest": [62, 0, 60, 5]
+												},
+												{
+													"coordinates": [-1, -2.5, 0, 2, 5, 0],
+													"uvNorth": [60, 0, 62, 5],
+													"uvSouth": [62, 0, 60, 5]
+												}
+											]
+										},
+										{
+											"id": "subbranch1",
+											"invertAxis": "xy",
+											"translate": [0, 5, 0],
+											"submodels": [
+												{
+													"id": "rot",
+													"invertAxis": "xy",
+													"translate": [0, 2.5, 0],
+													"rotate": [0, 45, 0],
+													"boxes": [
+														{
+															"coordinates": [0, -2.5, -1, 0, 5, 2],
+															"uvEast": [62, 0, 64, 5],
+															"uvWest": [64, 0, 62, 5]
+														},
+														{
+															"coordinates": [-1, -2.5, 0, 2, 5, 0],
+															"uvNorth": [62, 0, 64, 5],
+															"uvSouth": [64, 0, 62, 5]
+														}
+													]
+												},
+												{
+													"id": "chead1",
+													"invertAxis": "xy",
+													"translate": [0, 5, 0],
+													"submodels": [
+														{
+															"id": "bone",
+															"invertAxis": "xy",
+															"translate": [0, 0, 0],
+															"rotate": [0, -45, 0],
+															"boxes": [
+																{
+																	"coordinates": [0, 0, -2.5, 0, 4, 5],
+																	"uvEast": [50, 0, 55, 5],
+																	"uvWest": [55, 0, 50, 5]
+																},
+																{
+																	"coordinates": [-2.5, 0, 0, 5, 4, 0],
+																	"uvNorth": [55, 0, 50, 5],
+																	"uvSouth": [50, 0, 55, 5]
+																}
+															]
+														}
+													],
+													"boxes": [
+														{
+															"coordinates": [-2.5, 0.5, -2.5, 5, 7, 5],
+															"uvNorth": [45, 5, 50, 12],
+															"uvEast": [40, 5, 45, 12],
+															"uvSouth": [55, 5, 60, 12],
+															"uvWest": [50, 5, 55, 12],
+															"uvUp": [50, 5, 45, 0]
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"id": "branch2",
+									"invertAxis": "xy",
+									"translate": [-2.75, -7.5, 3],
+									"submodels": [
+										{
+											"id": "subbranch2",
+											"invertAxis": "xy",
+											"translate": [0, 3, 0],
+											"submodels": [
+												{
+													"id": "chead2",
+													"invertAxis": "xy",
+													"translate": [0, 5, 0],
+													"submodels": [
+														{
+															"id": "bone3",
+															"invertAxis": "xy",
+															"translate": [0, 0, 0],
+															"rotate": [0, -45, 0],
+															"boxes": [
+																{
+																	"coordinates": [0, 0, -2.5, 0, 4, 5],
+																	"uvEast": [50, 0, 55, 5],
+																	"uvWest": [55, 0, 50, 5]
+																},
+																{
+																	"coordinates": [-2.5, 0, 0, 5, 4, 0],
+																	"uvNorth": [55, 0, 50, 5],
+																	"uvSouth": [50, 0, 55, 5]
+																}
+															]
+														},
+														{
+															"id": "bone4",
+															"invertAxis": "xy",
+															"translate": [0, 0, 0]
+														}
+													],
+													"boxes": [
+														{
+															"coordinates": [-2.5, 0.5, -2.5, 5, 7, 5],
+															"uvNorth": [45, 5, 50, 12],
+															"uvEast": [40, 5, 45, 12],
+															"uvSouth": [55, 5, 60, 12],
+															"uvWest": [50, 5, 55, 12],
+															"uvUp": [50, 5, 45, 0]
+														}
+													]
+												},
+												{
+													"id": "rot3",
+													"invertAxis": "xy",
+													"translate": [0, 2.5, 0],
+													"rotate": [0, 45, 0],
+													"boxes": [
+														{
+															"coordinates": [0, -2.5, -1, 0, 5, 2],
+															"uvEast": [58, 0, 60, 5],
+															"uvWest": [60, 0, 58, 5]
+														},
+														{
+															"coordinates": [-1, -2.5, 0, 2, 5, 0],
+															"uvNorth": [58, 0, 60, 5],
+															"uvSouth": [60, 0, 58, 5]
+														}
+													]
+												}
+											]
+										},
+										{
+											"id": "rot4",
+											"invertAxis": "xy",
+											"translate": [0, 0.5, 0],
+											"rotate": [0, 45, 0],
+											"boxes": [
+												{
+													"coordinates": [0, -0.5, -1, 0, 3, 2],
+													"uvEast": [56, 0, 58, 3],
+													"uvWest": [58, 0, 56, 3]
+												},
+												{
+													"coordinates": [-1, -0.5, 0, 2, 3, 0],
+													"uvNorth": [56, 0, 58, 3],
+													"uvSouth": [58, 0, 56, 3]
+												}
+											]
+										}
+									]
+								},
+								{
+									"id": "branch3",
+									"invertAxis": "xy",
+									"translate": [2.25, -7.5, 0],
+									"submodels": [
+										{
+											"id": "chead3",
+											"invertAxis": "xy",
+											"translate": [0, 3, 0],
+											"submodels": [
+												{
+													"id": "bone2",
+													"invertAxis": "xy",
+													"translate": [0, 0, 0],
+													"rotate": [0, -45, 0],
+													"boxes": [
+														{
+															"coordinates": [0, 0, -2.5, 0, 4, 5],
+															"uvEast": [50, 0, 55, 5],
+															"uvWest": [55, 0, 50, 5]
+														},
+														{
+															"coordinates": [-2.5, 0, 0, 5, 4, 0],
+															"uvNorth": [55, 0, 50, 5],
+															"uvSouth": [50, 0, 55, 5]
+														}
+													]
+												},
+												{
+													"id": "bone5",
+													"invertAxis": "xy",
+													"translate": [0, 0, 0]
+												}
+											],
+											"boxes": [
+												{
+													"coordinates": [-2.5, 0.5, -2.5, 5, 7, 5],
+													"uvNorth": [45, 5, 50, 12],
+													"uvEast": [40, 5, 45, 12],
+													"uvSouth": [55, 5, 60, 12],
+													"uvWest": [50, 5, 55, 12],
+													"uvUp": [50, 5, 45, 0]
+												}
+											]
+										},
+										{
+											"id": "rot5",
+											"invertAxis": "xy",
+											"translate": [0, 0.5, 0],
+											"rotate": [0, 45, 0],
+											"boxes": [
+												{
+													"coordinates": [0, -0.5, -1, 0, 3, 2],
+													"uvEast": [58, 0, 56, 3],
+													"uvWest": [56, 0, 58, 3]
+												},
+												{
+													"coordinates": [-1, -0.5, 0, 2, 3, 0],
+													"uvNorth": [58, 0, 56, 3],
+													"uvSouth": [56, 0, 58, 3]
+												}
+											]
+										}
+									]
+								},
+								{
+									"id": "flower_branch",
+									"invertAxis": "xy",
+									"translate": [0, 0.5, 0.125],
+									"boxes": [
+										{
+											"coordinates": [-1.5, -8, -1.625, 3, 8, 3],
+											"uvNorth": [61, 24, 64, 32],
+											"uvEast": [61, 24, 64, 32],
+											"uvSouth": [61, 24, 64, 32],
+											"uvWest": [61, 24, 64, 32],
+											"uvUp": [64, 24, 61, 21],
+											"uvDown": [64, 21, 61, 24]
+										}
+									],
+									"submodels": [
+										{
+											"id": "flower_branch2",
+											"invertAxis": "xy",
+											"translate": [0, 0, 0.125],
+											"boxes": [
+												{
+													"coordinates": [-1, 0, -1, 2, 8, 2],
+													"uvNorth": [59, 24, 61, 32],
+													"uvEast": [59, 24, 61, 32],
+													"uvSouth": [59, 24, 61, 32],
+													"uvWest": [59, 24, 61, 32],
+													"uvUp": [61, 24, 59, 22],
+													"uvDown": [61, 22, 59, 24]
+												}
+											],
+											"submodels": [
+												{
+													"id": "flower",
+													"invertAxis": "xy",
+													"translate": [0, 8, 0],
+													"boxes": [
+														{
+															"coordinates": [-2, 0, -2, 4, 2, 4],
+															"uvNorth": [55, 26, 59, 28],
+															"uvEast": [55, 26, 59, 28],
+															"uvSouth": [55, 26, 59, 28],
+															"uvWest": [55, 26, 59, 28],
+															"uvUp": [59, 26, 55, 22],
+															"uvDown": [59, 28, 55, 32]
+														}
+													],
+													"submodels": [
+														{
+															"id": "petal_rot",
+															"invertAxis": "xy",
+															"translate": [0, 1, 0],
+															"submodels": [
+																{
+																	"id": "petal",
+																	"invertAxis": "xy",
+																	"translate": [0, 0.25, 1.75],
+																	"boxes": [
+																		{
+																			"coordinates": [-1, -0.5, 0, 2, 1, 4],
+																			"uvNorth": [51, 22.5, 53, 23.5],
+																			"uvEast": [51, 27.5, 55, 28.5],
+																			"uvSouth": [53, 22.5, 55, 23.5],
+																			"uvWest": [51, 28.5, 55, 29.5],
+																			"uvUp": [55, 27.5, 53, 23.5],
+																			"uvDown": [51, 23.5, 53, 27.5]
+																		}
+																	]
+																}
+															]
+														},
+														{
+															"id": "petal_rot2",
+															"invertAxis": "xy",
+															"translate": [0, 1, 0],
+															"rotate": [0, -60, 0],
+															"submodels": [
+																{
+																	"id": "petal2",
+																	"invertAxis": "xy",
+																	"translate": [0, 0.25, 1.75],
+																	"boxes": [
+																		{
+																			"coordinates": [-1, -0.5, 0, 2, 1, 4],
+																			"uvNorth": [51, 22.5, 53, 23.5],
+																			"uvEast": [51, 27.5, 55, 28.5],
+																			"uvSouth": [53, 22.5, 55, 23.5],
+																			"uvWest": [51, 28.5, 55, 29.5],
+																			"uvUp": [55, 27.5, 53, 23.5],
+																			"uvDown": [51, 23.5, 53, 27.5]
+																		}
+																	]
+																}
+															]
+														},
+														{
+															"id": "petal_rot3",
+															"invertAxis": "xy",
+															"translate": [0, 1, 0],
+															"rotate": [0, -120, 0],
+															"submodels": [
+																{
+																	"id": "petal3",
+																	"invertAxis": "xy",
+																	"translate": [0, 0.25, 1.75],
+																	"boxes": [
+																		{
+																			"coordinates": [-1, -0.5, 0, 2, 1, 4],
+																			"uvNorth": [51, 22.5, 53, 23.5],
+																			"uvEast": [51, 27.5, 55, 28.5],
+																			"uvSouth": [53, 22.5, 55, 23.5],
+																			"uvWest": [51, 28.5, 55, 29.5],
+																			"uvUp": [55, 27.5, 53, 23.5],
+																			"uvDown": [51, 23.5, 53, 27.5]
+																		}
+																	]
+																}
+															]
+														},
+														{
+															"id": "petal_rot4",
+															"invertAxis": "xy",
+															"translate": [0, 1, 0],
+															"rotate": [0, -180, 0],
+															"submodels": [
+																{
+																	"id": "petal4",
+																	"invertAxis": "xy",
+																	"translate": [0, 0.25, 1.75],
+																	"boxes": [
+																		{
+																			"coordinates": [-1, -0.5, 0, 2, 1, 4],
+																			"uvNorth": [51, 22.5, 53, 23.5],
+																			"uvEast": [51, 27.5, 55, 28.5],
+																			"uvSouth": [53, 22.5, 55, 23.5],
+																			"uvWest": [51, 28.5, 55, 29.5],
+																			"uvUp": [55, 27.5, 53, 23.5],
+																			"uvDown": [51, 23.5, 53, 27.5]
+																		}
+																	]
+																}
+															]
+														},
+														{
+															"id": "petal_rot5",
+															"invertAxis": "xy",
+															"translate": [0, 1, 0],
+															"rotate": [0, 120, 0],
+															"submodels": [
+																{
+																	"id": "petal5",
+																	"invertAxis": "xy",
+																	"translate": [0, 0.25, 1.75],
+																	"boxes": [
+																		{
+																			"coordinates": [-1, -0.5, 0, 2, 1, 4],
+																			"uvNorth": [51, 22.5, 53, 23.5],
+																			"uvEast": [51, 27.5, 55, 28.5],
+																			"uvSouth": [53, 22.5, 55, 23.5],
+																			"uvWest": [51, 28.5, 55, 29.5],
+																			"uvUp": [55, 27.5, 53, 23.5],
+																			"uvDown": [51, 23.5, 53, 27.5]
+																		}
+																	]
+																}
+															]
+														},
+														{
+															"id": "petal_rot6",
+															"invertAxis": "xy",
+															"translate": [0, 1, 0],
+															"rotate": [0, 60, 0],
+															"submodels": [
+																{
+																	"id": "petal6",
+																	"invertAxis": "xy",
+																	"translate": [0, 0.25, 1.75],
+																	"boxes": [
+																		{
+																			"coordinates": [-1, -0.5, 0, 2, 1, 4],
+																			"uvNorth": [51, 22.5, 53, 23.5],
+																			"uvEast": [51, 27.5, 55, 28.5],
+																			"uvSouth": [53, 22.5, 55, 23.5],
+																			"uvWest": [51, 28.5, 55, 29.5],
+																			"uvUp": [55, 27.5, 53, 23.5],
+																			"uvDown": [51, 23.5, 53, 27.5]
+																		}
+																	]
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"id": "eye",
+									"invertAxis": "xy",
+									"translate": [0, -14, 0.25],
+									"boxes": [
+										{"coordinates": [-1.5, -1.5, -2.5, 3, 3, 3], "textureOffset": [28, 0]}
+									]
+								}
+							],
+							"boxes": [
+								{
+									"coordinates": [-4, -15.5, -4, 8, 8, 8],
+									"uvNorth": [56, 12, 64, 20],
+									"uvEast": [56, 12, 64, 20],
+									"uvSouth": [56, 12, 64, 20],
+									"uvWest": [56, 12, 64, 20],
+									"uvUp": [48, 20, 40, 12],
+									"uvDown": [56, 12, 48, 20]
+								}
+							]
+						}
+					]
+				}
+			],
+			"animations": [
+				{
+					"center_stem.ry": "-rot_y",
+					"var.comment": "0",
+					"var.distance_threshhold": "5",
+					"varb.is_near": "distance<=var.distance_threshhold",
+					"var.max_nearness": "100",
+					"var.min_nearness": "0",
+					"var.step_nearness": "min((var.max_nearness-2*abs(var.max_nearness/2-var.nearness))/10+0.1,10)/8",
+					"var.nearness": "if(varb.is_near,if(var.max_nearness>var.nearness,var.nearness+var.step_nearness,var.max_nearness),if(var.min_nearness<var.nearness,var.nearness-var.step_nearness,var.min_nearness))",
+					"branch1.ry": "torad(var.nearness/2)+sin(sin(time/10)/10)/10*var.nearness/100",
+					"branch1.rz": "torad(var.nearness/8)+sin(sin(time/10)/10)/10*var.nearness/100",
+					"subbranch1.rz": "torad(var.nearness/3)+sin(sin(time/10)/10)/10*var.nearness/100",
+					"chead1.rz": "torad(var.nearness/5)+sin(sin(time/10)/10)/10*var.nearness/100",
+					"branch2.ry": "torad(-var.nearness/1.5)+sin(sin(time/10)/10)/10*var.nearness/100",
+					"branch2.rz": "torad(var.nearness/5)+sin(sin(time/10)/10)/10*var.nearness/100",
+					"subbranch2.rz": "torad(var.nearness/2)+sin(sin(time/10)/10)/10*var.nearness/100",
+					"chead2.rz": "torad(var.nearness/5)+sin(sin(time/10)/10)/10*var.nearness/100",
+					"branch3.ry": "torad(-var.nearness/20)+sin(sin(time/10)/10)/10*var.nearness/100",
+					"branch3.rz": "torad(-var.nearness/2)+sin(sin(time/10)/10)/10*var.nearness/100",
+					"chead3.rz": "torad(-var.nearness/5)+sin(sin(time/10)/10)/10*var.nearness/100",
+					"flower_branch.ty": "min(8,max(0,(var.max_nearness-var.nearness)/10))",
+					"flower_branch2.ry": "torad(var.nearness/6)",
+					"flower_branch2.ty": "min(16,max(0,(var.max_nearness-var.nearness)/10))",
+					"flower.ry": "torad(var.nearness/2)",
+					"petal.rx": "torad(var.max_nearness*1.2-var.nearness)+var.nearness/100*sin(sin(10+time/10)/10)",
+					"petal2.rx": "torad(var.max_nearness*1.2-var.nearness)+var.nearness/100*sin(sin(20+time/10)/10)",
+					"petal3.rx": "torad(var.max_nearness*1.2-var.nearness)+var.nearness/100*sin(sin(30+time/10)/10)",
+					"petal4.rx": "torad(var.max_nearness*1.2-var.nearness)+var.nearness/100*sin(sin(40+time/10)/10)",
+					"petal5.rx": "torad(var.max_nearness*1.2-var.nearness)+var.nearness/100*sin(sin(50+time/10)/10)",
+					"petal6.rx": "torad(var.max_nearness*1.2-var.nearness)+var.nearness/100*sin(sin(60+time/10)/10)",
+					"eye.sx": "var.nearness/100",
+					"eye.sy": "var.nearness/100",
+					"eye.sz": "var.nearness/100",
+					"eye.ty": "16+(var.nearness/100*-20)",
+					"eye.ry": "rot_y+head.ry",
+					"eye.rx": "head.rx"
+				}
+			]
+		},
+		{
+			"part": "leg1",
+			"id": "leg1",
+			"invertAxis": "xy",
+			"translate": [-2, -6, -4],
+			"boxes": [
+				{"coordinates": [0, 0, 2, 4, 6, 4], "textureOffset": [0, 16]}
+			]
+		},
+		{
+			"part": "leg2",
+			"id": "leg2",
+			"invertAxis": "xy",
+			"translate": [2, -6, -4],
+			"boxes": [
+				{"coordinates": [-4, 0, 2, 4, 6, 4], "textureOffset": [0, 16]}
+			]
+		},
+		{
+			"part": "leg3",
+			"id": "leg3",
+			"invertAxis": "xy",
+			"translate": [-2, -6, 4],
+			"boxes": [
+				{"coordinates": [0, 0, -6, 4, 6, 4], "textureOffset": [0, 16]}
+			]
+		},
+		{
+			"part": "leg4",
+			"id": "leg4",
+			"invertAxis": "xy",
+			"translate": [2, -6, 4],
+			"boxes": [
+				{"coordinates": [-4, 0, -6, 4, 6, 4], "textureOffset": [0, 16]}
+			]
+		}
+	]
+}
