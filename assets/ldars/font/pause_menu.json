@@ -1,0 +1,52 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "ldars:pause_menu/logo1.png",
+      "height": 40,
+      "ascent": 30,
+      "chars": [
+        "\uEF00"
+      ]
+    },
+	{
+      "type": "bitmap",
+      "file": "ldars:pause_menu/logo2.png",
+      "height": 40,
+      "ascent": 30,
+      "chars": [
+        "\uEF01"
+      ]
+    },
+	{
+      "type": "bitmap",
+      "file": "ldars:pause_menu/logo3.png",
+      "height": 40,
+      "ascent": -10,
+      "chars": [
+        "\uEF02"
+      ]
+    },
+	{
+      "type": "bitmap",
+      "file": "ldars:pause_menu/logo4.png",
+      "height": 40,
+      "ascent": -10,
+      "chars": [
+        "\uEF03"
+      ]
+    },
+	{
+	"type": "space",
+	"advances": {
+		"\uEF10": -169
+		}
+	},
+	{
+	"type": "space",
+	"advances": {
+		"\uEF11": -1
+		}
+	}
+  ]
+}

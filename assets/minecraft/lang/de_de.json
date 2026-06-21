@@ -171,8 +171,6 @@
   "item.minecraft.writable_book": "Unfertiges Manifest (Buch)",
   "item.minecraft.written_book": "Manifest (Buch)",
   "item.minecraft.enchanted_book": "Der Qur'an",
-
-  "block.minecraft.crafting_table": "Gemeinschafts Werkbank",
   
   "item.minecraft.milk_bucket": "Vly Milch",
     
@@ -188,28 +186,20 @@
   "advancements.story.iron_tools.title": "Staatliche Neuausstattung",
   "advancements.story.mine_diamond.description": "Finde Diamanten",
   "advancements.story.mine_diamond.title": "Die erste Millionen",
-  
   "advancements.story.obtain_armor.description": "Schütze dich mit eiserner Rüstung",
   "advancements.story.obtain_armor.title": "Arbeitsrechte sind teuer",
-  
   "advancements.story.lava_bucket.description": "Fülle einen Eimer mit Lava",
   "advancements.story.lava_bucket.title": "Mit CO2 Zertifikat",
-  
-    "advancements.story.shiny_gear.description": "Diamontrüstung rettet Leben",
+  "advancements.story.shiny_gear.description": "Diamontrüstung rettet Leben",
   "advancements.story.shiny_gear.title": "Late-Stage Craftialism",
-  
   "advancements.husbandry.plant_seed.description": "Säe einen Samen und schau ihm beim wachsen zu",
   "advancements.husbandry.plant_seed.title": "Nahrungsversorgung sichergestellt",
-  
   "advancements.adventure.sleep_in_bed.description": "Schlafe in einem Bett",
   "advancements.adventure.sleep_in_bed.title": "Der Traum der glorreichen Revolution",
-  
   "advancements.story.deflect_arrow.description": "Wehre ein Projektil mit einem Schild ab",
   "advancements.story.deflect_arrow.title": "Eiserne Mauer",
-  
   "advancements.husbandry.breed_an_animal.description": "Paare zwei Tiere",
   "advancements.husbandry.breed_an_animal.title": "Freilandhaltung",
-  
   "advancements.adventure.kill_a_mob.description": "Töte eine feindliche Kreatur",
   "advancements.adventure.kill_a_mob.title": "Klassenfeinde ausschalten",
 
@@ -321,4 +311,7 @@
   "block.minecraft.banner.straight_cross.red": "Roter Mond",
   "block.minecraft.banner.straight_cross.white": "Weißer Mond",
   "block.minecraft.banner.straight_cross.yellow": "Gelber Mond",
+  
+  "multiplayer.status.no_connection": "(ping gehört nun dem Volk)",
+  "menu.game": "\uEF00\uEF11\uEF01\uEF10\uEF02\uEF11\uEF03"
 }

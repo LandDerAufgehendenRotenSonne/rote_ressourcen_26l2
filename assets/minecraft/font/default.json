@@ -1,0 +1,8 @@
+{
+    "providers": [
+        {
+            "type": "reference",
+            "id": "ldars:pause_menu"
+        }
+    ]
+}
