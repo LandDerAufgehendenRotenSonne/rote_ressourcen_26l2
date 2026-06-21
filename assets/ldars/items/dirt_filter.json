@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "ldars:block/dirt_filter/empty"
+  }
+}

@@ -87,6 +87,7 @@
   "description.item.ldars.dosimeter.l1": "Ein gerät zum messen der eigenen Radioaktiven Strahlung",
   "description.item.ldars.dosimeter.l2": "Kann auch genutzt werden um das Strahlungslevel eines",
   "description.item.ldars.dosimeter.l3": "Anderen Spielers herauszufinden indem man diesen Rechtsklickt.",
+  "name.block.ldars.dirt_filter": "Erdfilter",
   
   "name.item.ldars.hazmat_suit.helmet": "Strahlenschutzanzug Helm",
   "name.item.ldars.hazmat_suit.chestplate": "Strahlenschutzanzug Brustplatte",
@@ -113,6 +114,10 @@
   "gui.ldars.radiation.world_border.notification": "Alles ist in dichten Nebel gehüllt du solltest nicht weiter gehen.",
   "death.ldars.radiation.world_border.death": "hat herausgefunden, dass nur die eigene Fantasie keine Grenzen kennt",
 
+  "item.ldars.mobs.touchmenot": "Sprengkraut",
+  "item.ldars.mobs.botfly": "Dasselfliege",
+  "item.ldars.mobs.touchmenot_spawn_egg": "Sprengkraut-Spawn-Ei",
+  "item.ldars.mobs.botfly_spawn_egg": "Dasselfliege-Spawn-Ei",
 
   "item.minecraft.blaze_rod": "Brennstab",
 

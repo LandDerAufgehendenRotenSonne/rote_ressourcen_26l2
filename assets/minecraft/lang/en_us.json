@@ -93,6 +93,7 @@
   "description.item.ldars.dosimeter.l1": "A device for detecting your own radiation",
   "description.item.ldars.dosimeter.l2": "Can also be used to get the radiation level of",
   "description.item.ldars.dosimeter.l3": "another player by right clicking them.",
+  "name.block.ldars.dirt_filter": "Dirt Filter",
   
   "name.item.ldars.hazmat_suit.helmet": "Hazmat Suit Helmet",
   "name.item.ldars.hazmat_suit.chestplate": "Hazmat Suit Chestplate",
@@ -118,6 +119,12 @@
   "death.ldars.radiation": "succumbed to lethal radiation",
   "gui.ldars.radiation.world_border.notification": "Thick fog is rolling in. You should turn back here.",
   "death.ldars.radiation.world_border.death": "has discovered, that only their dreams know no bounds",
+
+
+  "item.ldars.mobs.touchmenot": "Touchmenot",
+  "item.ldars.mobs.botfly": "Botfly",
+  "item.ldars.mobs.touchmenot_spawn_egg": "Touchmenot Spawn Egg",
+  "item.ldars.mobs.botfly_spawn_egg": "Botfly Spawn Egg",
 
   "item.minecraft.blaze_rod": "Fuel Rod",
 
