@@ -21,5 +21,10 @@
     "sounds": [{
       "name" : "ldars:bunker/schleuse"
     }]
+  },
+  "silence": {
+    "sounds": [{
+      "name" : "ldars:silence"
+    }]
   }
 }
