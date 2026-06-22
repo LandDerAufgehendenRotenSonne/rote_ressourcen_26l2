@@ -112,12 +112,15 @@
   "gui.ldars.radiation.notification": "You are feeling a bit strange...",
   "death.ldars.radiation": "succumbed to lethal radiation",
   "gui.ldars.radiation.world_border.notification": "Thick fog is rolling in. You should turn back here.",
+  "gui.ldars.radiation.infertile.notification": "This area is too radiated for plants to grow!",
   "death.ldars.radiation.world_border.death": "has discovered, that only their dreams know no bounds",
 
   "item.ldars.mobs.touchmenot": "Touchmenot",
   "item.ldars.mobs.botfly": "Botfly",
   "item.ldars.mobs.touchmenot_spawn_egg": "Touchmenot Spawn Egg",
   "item.ldars.mobs.botfly_spawn_egg": "Botfly Spawn Egg",
+  
+  "gui.ldars.chat.notification": "You don't have the permission to send messages! You can only use /msg <name> <message> to chat with the Team.",
 
   "item.minecraft.blaze_rod": "Fuel Rod",
 

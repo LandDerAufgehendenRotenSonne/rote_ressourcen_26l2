@@ -112,12 +112,15 @@
   "gui.ldars.radiation.notification": "Du fühlst dich etwas seltsam...",
   "death.ldars.radiation": "Viel der Strahlung zum Opfer",
   "gui.ldars.radiation.world_border.notification": "Alles ist in dichten Nebel gehüllt du solltest nicht weiter gehen.",
+  "gui.ldars.radiation.infertile.notification": "TODO",
   "death.ldars.radiation.world_border.death": "hat herausgefunden, dass nur die eigene Fantasie keine Grenzen kennt",
 
   "item.ldars.mobs.touchmenot": "Sprengkraut",
   "item.ldars.mobs.botfly": "Dasselfliege",
   "item.ldars.mobs.touchmenot_spawn_egg": "Sprengkraut-Spawn-Ei",
   "item.ldars.mobs.botfly_spawn_egg": "Dasselfliege-Spawn-Ei",
+  
+  "gui.ldars.chat.notification": "TODO",
 
   "item.minecraft.blaze_rod": "Brennstab",
 
