@@ -121,8 +121,7 @@
   "item.ldars.mobs.botfly_spawn_egg": "Dasselfliege-Spawn-Ei",
   
   "gui.ldars.chat.notification": "TODO",
-  "gui.ldars.revive.fail.notification.1": "Du kannst diesen Spieler grade nicht Stabilisieren ",
-  "gui.ldars.revive.fail.notification.2": "Sekunden verbleibend.",
+  "gui.ldars.revive.fail.notification": "Du kannst diesen Spieler grade nicht Stabilisieren %s Sekunden verbleibend"
 
   "item.minecraft.blaze_rod": "Brennstab",
 
