@@ -121,6 +121,8 @@
   "item.ldars.mobs.botfly_spawn_egg": "Botfly Spawn Egg",
   
   "gui.ldars.chat.notification": "You don't have the permission to send messages! You can only use /msg <name> <message> to chat with the Team.",
+  "gui.ldars.revive.fail.notification.1": "You cannot stabilize players yet!",
+  "gui.ldars.revive.fail.notification.2": "seconds remaining.",
 
   "item.minecraft.blaze_rod": "Fuel Rod",
 
