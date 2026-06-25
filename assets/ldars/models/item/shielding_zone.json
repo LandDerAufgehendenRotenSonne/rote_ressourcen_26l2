@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "ldars:item/rad_away_potion"
+    "layer0": "ldars:item/shielding_zone"
   }
 }

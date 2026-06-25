@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "ldars:item/healing_potion1"
+    "model": "ldars:item/shielding_zone"
   }
 }

@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "ldars:item/healing_potion1"
+    "layer0": "ldars:item/rad_away_serum"
   }
 }

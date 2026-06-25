@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "ldars:item/healing_potion2"
+    "model": "ldars:item/rad_away_serum"
   }
 }
