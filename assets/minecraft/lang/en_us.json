@@ -82,6 +82,7 @@
   "name.item.ldars.backpack": "Backpack",
   "name.item.ldars.shielding_zone": "Shielding Zone",
   "name.item.ldars.plaster": "Plaster",
+  "name.item.ldars.healing_potion": "Healing Potion",
   "name.item.ldars.geiger_counter": "Geiger Counter",
   "description.item.ldars.geiger_counter": "A device for detecting radiation in the surrounding area",
   "name.item.ldars.dosimeter": "Dosimeter",
