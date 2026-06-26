@@ -82,6 +82,7 @@
   "name.item.ldars.backpack": "Backpack",
   "name.item.ldars.shielding_zone": "Schutzzone",
   "name.item.ldars.plaster": "Pflaster",
+  "name.item.ldars.healing_potion": "Heilungstrank",
   "name.item.ldars.geiger_counter": "Geigerzähler",
   "description.item.ldars.geiger_counter": "Ein Gerät zum messen der Radioaktiven Strahlung in der Umgebung",
   "name.item.ldars.dosimeter": "Dosimeter",
@@ -316,6 +317,8 @@
   "block.minecraft.banner.straight_cross.red": "Roter Mond",
   "block.minecraft.banner.straight_cross.white": "Weißer Mond",
   "block.minecraft.banner.straight_cross.yellow": "Gelber Mond",
+  
+  "container.enderchest": "Rucksack",
   
   "multiplayer.status.no_connection": "(ping gehört nun dem Volk)",
   "menu.game": "\uEF00\uEF11\uEF01\uEF10\uEF02\uEF11\uEF03"

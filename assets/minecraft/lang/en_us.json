@@ -317,6 +317,8 @@
   "block.minecraft.purpur_slab": "Popo Slab",
   "block.minecraft.purpur_stairs": "Popo Stairs",
   
+  "container.enderchest": "Backpack",
+  
   "multiplayer.status.no_connection": "(ping gehört nun dem Volk)",
   "menu.game": "\uEF00\uEF11\uEF01\uEF10\uEF02\uEF11\uEF03"
 }
