@@ -1,5 +1,22 @@
 {
   "model": {
+    "type": "minecraft:condition",
+    "property": "minecraft:component",
+    "predicate": "minecraft:custom_data",
+    "value": {
+      "use_default": true
+    },
+    "on_true": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/potion",
+      "tints": [
+        {
+          "type": "minecraft:potion",
+          "default": 8485241
+        }
+      ]
+    },
+    "on_false": {
       "type": "minecraft:condition",
       "on_false": {
         "type": "minecraft:model",
@@ -134,4 +151,5 @@
       },
       "property": "minecraft:using_item"
     }
+  }
 }
