@@ -1,30 +1,1102 @@
 {
   "post/send1": {
-    "sounds": [{
-      "name" : "ldars:post/send"
-    }],
-	"subtitle": "subtitles.ldars.pneumatic_tube_system.send"
+    "sounds": [
+      {
+        "name": "ldars:post/send"
+      }
+    ],
+    "subtitle": "subtitles.ldars.pneumatic_tube_system.send"
   },
   "post/send2": {
-    "sounds": [{
-      "name" : "ldars:post/send2"
-    }]
+    "sounds": [
+      {
+        "name": "ldars:post/send2"
+      }
+    ]
   },
   "post/recieved": {
-    "sounds": [{
-      "name" : "ldars:post/recieved",
-	  "attenuation_distance" : 25
-    }],
-	"subtitle": "subtitles.ldars.pneumatic_tube_system.recieve"
+    "sounds": [
+      {
+        "name": "ldars:post/recieved",
+        "attenuation_distance": 25
+      }
+    ],
+    "subtitle": "subtitles.ldars.pneumatic_tube_system.recieve"
   },
   "bunker/schleuse": {
-    "sounds": [{
-      "name" : "ldars:bunker/schleuse"
-    }]
+    "sounds": [
+      {
+        "name": "ldars:bunker/schleuse"
+      }
+    ]
   },
   "silence": {
-    "sounds": [{
-      "name" : "ldars:silence"
-    }]
+    "sounds": [
+      {
+        "name": "ldars:silence"
+      }
+    ]
+  },
+  "bunker/sewer_ambience": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/sewer_ambience",
+		"stream": true
+      }
+    ]
+  },
+  "bunker/eclipse/bunkeroeffnung/analyse_a_verstrahlt-231t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/bunkeroeffnung/analyse_a_verstrahlt-231t",
+        "stream": true
+      }
+    ]
+  },
+  "bunker/eclipse/bunkeroeffnung/analyse_b_jungel-205t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/bunkeroeffnung/analyse_b_jungel-205t",
+        "stream": true
+      }
+    ]
+  },
+  "bunker/eclipse/bunkeroeffnung/analyse_c_wueste-161t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/bunkeroeffnung/analyse_c_wueste-161t",
+        "stream": true
+      }
+    ]
+  },
+  "bunker/eclipse/bunkeroeffnung/analysiere_umgebung-71t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/bunkeroeffnung/analysiere_umgebung-71t"
+      }
+    ]
+  },
+  "bunker/eclipse/bunkeroeffnung/authentifiziert_willkommen_bunkerleitung-60t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/bunkeroeffnung/authentifiziert_willkommen_bunkerleitung-60t"
+      }
+    ]
+  },
+  "bunker/eclipse/bunkeroeffnung/bunkeroeffnungsanfrage_registriert-58t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/bunkeroeffnung/bunkeroeffnungsanfrage_registriert-58t"
+      }
+    ]
+  },
+  "bunker/eclipse/bunkeroeffnung/bunkeroeffnungsauthentifizierungsprotokoll-126t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/bunkeroeffnung/bunkeroeffnungsauthentifizierungsprotokoll-126t",
+        "stream": true
+      }
+    ]
+  },
+  "bunker/eclipse/bunkeroeffnung/bunkeroeffnung_abgebrochen-29t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/bunkeroeffnung/bunkeroeffnung_abgebrochen-29t"
+      }
+    ]
+  },
+  "bunker/eclipse/bunkeroeffnung/bunkeroeffnung_eingeleitet-218t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/bunkeroeffnung/bunkeroeffnung_eingeleitet-218t",
+        "stream": true
+      }
+    ]
+  },
+  "bunker/eclipse/bunkeroeffnung/bunkeroeffnung_handbuch-94t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/bunkeroeffnung/bunkeroeffnung_handbuch-94t"
+      }
+    ]
+  },
+  "bunker/eclipse/bunkeroeffnung/bunkeroeffnung_nicht_empfohlen-95t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/bunkeroeffnung/bunkeroeffnung_nicht_empfohlen-95t"
+      }
+    ]
+  },
+  "bunker/eclipse/bunkeroeffnung/hauptschloss_entsichert-35t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/bunkeroeffnung/hauptschloss_entsichert-35t"
+      }
+    ]
+  },
+  "bunker/eclipse/bunkeroeffnung/innere_schleuse_entriegelt-37t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/bunkeroeffnung/innere_schleuse_verriegelt-80t"
+      }
+    ]
+  },
+  "bunker/eclipse/bunkeroeffnung/innere_schleuse_verriegelt-80t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/bunkeroeffnung/innere_schleuse_verriegelt-80t"
+      }
+    ]
+  },
+  "bunker/eclipse/bunkeroeffnung/kammerverriegelung_1m-62t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/bunkeroeffnung/kammerverriegelung_1m-62t"
+      }
+    ]
+  },
+  "bunker/eclipse/bunkeroeffnung/kammerverriegelung_2m-60t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/bunkeroeffnung/kammerverriegelung_2m-60t"
+      }
+    ]
+  },
+  "bunker/eclipse/bunkeroeffnung/kammerverriegelung_30s-61t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/bunkeroeffnung/kammerverriegelung_30s-61t"
+      }
+    ]
+  },
+  "bunker/eclipse/bunkeroeffnung/nbs_danke-69t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/bunkeroeffnung/nbs_danke-69t"
+      }
+    ]
+  },
+  "bunker/eclipse/bunkeroeffnung/tueroeffnung_abgeschlossen-33t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/bunkeroeffnung/tueroeffnung_abgeschlossen-33t"
+      }
+    ]
+  },
+  "bunker/eclipse/bunkeroeffnung/tueroeffnung_eingeleitet-30t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/bunkeroeffnung/tueroeffnung_eingeleitet-30t"
+      }
+    ]
+  },
+  "bunker/eclipse/daily_report/count/x_personen_ausserhalb_cryokammern-58t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/daily_report/count/x_personen_ausserhalb_cryokammern-58t"
+      }
+    ]
+  },
+  "bunker/eclipse/daily_report/count/x_personen_im_cryoschlaf-56t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/daily_report/count/x_personen_im_cryoschlaf-56t"
+      }
+    ]
+  },
+  "bunker/eclipse/daily_report/count/x_personen_insgesamt-45t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/daily_report/count/x_personen_insgesamt-45t"
+      }
+    ]
+  },
+  "bunker/eclipse/bunkeroeffnung/zuruecktreten_bitte-30t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/bunkeroeffnung/zuruecktreten_bitte-30t"
+      }
+    ]
+  },
+  "bunker/eclipse/daily_report/alle_systeme_laufen_den_vorgaben_entsprechend-64t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/daily_report/alle_systeme_laufen_den_vorgaben_entsprechend-64t"
+      }
+    ]
+  },
+  "bunker/eclipse/daily_report/anomalie_in_stromversorgung-98t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/daily_report/anomalie_in_stromversorgung-98t"
+      }
+    ]
+  },
+  "bunker/eclipse/daily_report/luftfeuchtigkeit_erhoet-40t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/daily_report/luftfeuchtigkeit_erhoet-40t"
+      }
+    ]
+  },
+  "bunker/eclipse/daily_report/sauerstoffinsuffizienz-100t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/daily_report/sauerstoffinsuffizienz-100t"
+      }
+    ]
+  },
+  "bunker/eclipse/daily_report/statusbericht_intro-39t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/daily_report/statusbericht_intro-39t",
+        "stream": false
+      }
+    ]
+  },
+  "bunker/eclipse/daily_report/statusbericht_mid-129t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/daily_report/statusbericht_mid-129t",
+        "stream": true
+      }
+    ]
+  },
+  "bunker/eclipse/daily_report/statusbericht_outro-77t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/daily_report/statusbericht_outro-77t",
+        "stream": true
+      }
+    ]
+  },
+  "bunker/eclipse/havarie/fehler_irreperabel-43t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/havarie/fehler_irreperabel-43t"
+      }
+    ]
+  },
+  "bunker/eclipse/havarie/notstrom_aktiv-25t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/havarie/notstrom_aktiv-25t"
+      }
+    ]
+  },
+  "bunker/eclipse/havarie/emergency/brand_erkannt-24t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/havarie/emergency/brand_erkannt-24t"
+      }
+    ]
+  },
+  "bunker/eclipse/havarie/emergency/kritischer_fehler_generic-68t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/havarie/emergency/kritischer_fehler_generic-68t"
+      }
+    ]
+  },
+  "bunker/eclipse/havarie/emergency/kritischer_fehler_sauerstoff-55t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/havarie/emergency/kritischer_fehler_sauerstoff-55t"
+      }
+    ]
+  },
+  "bunker/eclipse/havarie/emergency/sauerstoff_inregularitaet-50t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/havarie/emergency/sauerstoff_inregularitaet-50t"
+      }
+    ]
+  },
+  "bunker/eclipse/havarie/emergency/struktur_integritaet-50t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/havarie/emergency/struktur_integritaet-50t"
+      }
+    ]
+  },
+  "bunker/eclipse/havarie/emergency/systemfehler-33t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/havarie/emergency/systemfehler-33t"
+      }
+    ]
+  },
+  "bunker/eclipse/havarie/emergency/wassereinlauf_erkannt-32t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/havarie/emergency/wassereinlauf_erkannt-32t"
+      }
+    ]
+  },
+  "bunker/eclipse/havarie/emergency/contamination/bereich_erfolgreich_isoliert-37t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/havarie/emergency/contamination/bereich_erfolgreich_isoliert-37t"
+      }
+    ]
+  },
+  "bunker/eclipse/havarie/emergency/contamination/kontamination_farmsektor-97t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/havarie/emergency/contamination/kontamination_farmsektor-97t"
+      }
+    ]
+  },
+  "bunker/eclipse/havarie/emergency/contamination/kontamination_lagersektor-87t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/havarie/emergency/contamination/kontamination_lagersektor-87t"
+      }
+    ]
+  },
+  "bunker/eclipse/havarie/emergency/energy/kritischer_fehler_stromversorgung-40t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/havarie/emergency/energy/kritischer_fehler_stromversorgung-40t"
+      }
+    ]
+  },
+  "bunker/eclipse/havarie/emergency/energy/solarmodule-143t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/havarie/emergency/energy/solarmodule-143t",
+        "stream": true
+      }
+    ]
+  },
+  "bunker/eclipse/havarie/resolution/fehler_beseitigt-23t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/havarie/resolution/fehler_beseitigt-23t"
+      }
+    ]
+  },
+  "bunker/eclipse/havarie/resolution/stromversorgung_wiederhergestellt-92t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/havarie/resolution/stromversorgung_wiederhergestellt-92t"
+      }
+    ]
+  },
+  "bunker/eclipse/intro/cryomodul_1_entsiegelt-52t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/intro/cryomodul_1_entsiegelt-52t"
+      }
+    ]
+  },
+  "bunker/eclipse/intro/cryomodul_2_entsiegelt-54t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/intro/cryomodul_2_entsiegelt-54t"
+      }
+    ]
+  },
+  "bunker/eclipse/snippets/a-13t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/snippets/a-13t"
+      }
+    ]
+  },
+  "bunker/eclipse/snippets/b-9t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/snippets/b-9t"
+      }
+    ]
+  },
+  "bunker/eclipse/snippets/c-16t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/snippets/c-16t"
+      }
+    ]
+  },
+  "bunker/eclipse/snippets/natro_bunker_systems-34t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/snippets/natro_bunker_systems-34t"
+      }
+    ]
+  },
+  "bunker/eclipse/snippets/decks/a_deck-17t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/snippets/decks/a_deck-17t"
+      }
+    ]
+  },
+  "bunker/eclipse/snippets/decks/b_deck-15t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/snippets/decks/b_deck-15t"
+      }
+    ]
+  },
+  "bunker/eclipse/snippets/decks/c_deck-16t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/snippets/decks/c_deck-16t"
+      }
+    ]
+  },
+  "bunker/eclipse/snippets/decks/deck_0-44t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/snippets/decks/deck_0-44t"
+      }
+    ]
+  },
+  "bunker/eclipse/snippets/decks/d_deck-16t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/snippets/decks/d_deck-16t"
+      }
+    ]
+  },
+  "bunker/eclipse/snippets/numbers/acht-10t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/snippets/numbers/acht-10t"
+      }
+    ]
+  },
+  "bunker/eclipse/snippets/numbers/achzig-16t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/snippets/numbers/achzig-16t"
+      }
+    ]
+  },
+  "bunker/eclipse/snippets/numbers/drei-11t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/snippets/numbers/drei-11t"
+      }
+    ]
+  },
+  "bunker/eclipse/snippets/numbers/dreissig-17t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/snippets/numbers/dreissig-17t"
+      }
+    ]
+  },
+  "bunker/eclipse/snippets/numbers/ein-12t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/snippets/numbers/ein-12t"
+      }
+    ]
+  },
+  "bunker/eclipse/snippets/numbers/einhundert-18t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/snippets/numbers/einhundert-18t"
+      }
+    ]
+  },
+  "bunker/eclipse/snippets/numbers/null-10t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/snippets/numbers/null-10t"
+      }
+    ]
+  },
+  "bunker/eclipse/snippets/numbers/eins-12t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/snippets/numbers/eins-12t"
+      }
+    ]
+  },
+  "bunker/eclipse/snippets/numbers/elf-15t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/snippets/numbers/elf-15t"
+      }
+    ]
+  },
+  "bunker/eclipse/snippets/numbers/fuenf-13t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/snippets/numbers/fuenf-13t"
+      }
+    ]
+  },
+  "bunker/eclipse/snippets/numbers/fuenfzig-18t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/snippets/numbers/fuenfzig-18t"
+      }
+    ]
+  },
+  "bunker/eclipse/snippets/numbers/hundert-12t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/snippets/numbers/hundert-12t"
+      }
+    ]
+  },
+  "bunker/eclipse/snippets/numbers/neun-16t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/snippets/numbers/neun-16t"
+      }
+    ]
+  },
+  "bunker/eclipse/snippets/numbers/neunzig-16t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/snippets/numbers/neunzig-16t"
+      }
+    ]
+  },
+  "bunker/eclipse/snippets/numbers/sechs-13t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/snippets/numbers/sechs-13t"
+      }
+    ]
+  },
+  "bunker/eclipse/snippets/numbers/sechzig-20t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/snippets/numbers/sechzig-20t"
+      }
+    ]
+  },
+  "bunker/eclipse/snippets/numbers/sieben-14t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/snippets/numbers/sieben-14t"
+      }
+    ]
+  },
+  "bunker/eclipse/snippets/numbers/sieb-7t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/snippets/numbers/sieb-7t"
+      }
+    ]
+  },
+  "bunker/eclipse/snippets/numbers/siebzig-22t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/snippets/numbers/siebzig-22t"
+      }
+    ]
+  },
+  "bunker/eclipse/snippets/numbers/und-12t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/snippets/numbers/und-12t"
+      }
+    ]
+  },
+  "bunker/eclipse/snippets/numbers/vier-16t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/snippets/numbers/vier-16t"
+      }
+    ]
+  },
+  "bunker/eclipse/snippets/numbers/vierzig-16t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/snippets/numbers/vierzig-16t"
+      }
+    ]
+  },
+  "bunker/eclipse/snippets/numbers/zehn-17t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/snippets/numbers/zehn-17t"
+      }
+    ]
+  },
+  "bunker/eclipse/snippets/numbers/zwanzig-16t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/snippets/numbers/zwanzig-16t"
+      }
+    ]
+  },
+  "bunker/eclipse/snippets/numbers/zwei-12t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/snippets/numbers/zwei-12t"
+      }
+    ]
+  },
+  "bunker/eclipse/snippets/numbers/zwoelf-14t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/snippets/numbers/zwoelf-14t"
+      }
+    ]
+  },
+  "bunker/eclipse/snippets/words/keine-12t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/snippets/words/keine-12t"
+      }
+    ]
+  },
+  "bunker/eclipse/snippets/words/abgeschlossen-19t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/snippets/words/abgeschlossen-19t"
+      }
+    ]
+  },
+  "bunker/eclipse/snippets/words/achtung-18t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/snippets/words/achtung-18t"
+      }
+    ]
+  },
+  "bunker/eclipse/snippets/words/achtung_achtung-26t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/snippets/words/achtung_achtung-26t"
+      }
+    ]
+  },
+  "bunker/eclipse/snippets/words/analyse-22t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/snippets/words/analyse-22t"
+      }
+    ]
+  },
+  "bunker/eclipse/snippets/words/authentifiziert-25t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/snippets/words/authentifiziert-25t"
+      }
+    ]
+  },
+  "bunker/eclipse/snippets/words/authentifizierung-33t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/snippets/words/authentifizierung-33t"
+      }
+    ]
+  },
+  "bunker/eclipse/snippets/words/beobachtung-14t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/snippets/words/beobachtung-14t"
+      }
+    ]
+  },
+  "bunker/eclipse/snippets/words/bunker-16t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/snippets/words/bunker-16t"
+      }
+    ]
+  },
+  "bunker/eclipse/snippets/words/durchsage-21t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/snippets/words/durchsage-21t"
+      }
+    ]
+  },
+  "bunker/eclipse/snippets/words/eclipse-21t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/snippets/words/eclipse-21t"
+      }
+    ]
+  },
+  "bunker/eclipse/snippets/words/ende-16t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/snippets/words/ende-16t"
+      }
+    ]
+  },
+  "bunker/eclipse/snippets/words/fehler-19t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/snippets/words/fehler-19t"
+      }
+    ]
+  },
+  "bunker/eclipse/snippets/words/hinweis-23t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/snippets/words/hinweis-23t"
+      }
+    ]
+  },
+  "bunker/eclipse/snippets/words/information-24t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/snippets/words/information-24t"
+      }
+    ]
+  },
+  "bunker/eclipse/snippets/words/ja-15t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/snippets/words/ja-15t"
+      }
+    ]
+  },
+  "bunker/eclipse/snippets/words/korrektur-19t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/snippets/words/korrektur-19t"
+      }
+    ]
+  },
+  "bunker/eclipse/snippets/words/meldung-17t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/snippets/words/meldung-17t"
+      }
+    ]
+  },
+  "bunker/eclipse/snippets/words/minute-20t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/snippets/words/minute-20t"
+      }
+    ]
+  },
+  "bunker/eclipse/snippets/words/minuten-15t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/snippets/words/minuten-15t"
+      }
+    ]
+  },
+  "bunker/eclipse/snippets/words/natro-17t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/snippets/words/natro-17t"
+      }
+    ]
+  },
+  "bunker/eclipse/snippets/words/nein-11t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/snippets/words/nein-11t"
+      }
+    ]
+  },
+  "bunker/eclipse/snippets/words/neustart-18t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/snippets/words/neustart-18t"
+      }
+    ]
+  },
+  "bunker/eclipse/snippets/words/problem-17t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/snippets/words/problem-17t"
+      }
+    ]
+  },
+  "bunker/eclipse/snippets/words/protokollierung-19t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/snippets/words/protokollierung-19t"
+      }
+    ]
+  },
+  "bunker/eclipse/snippets/words/sekunden-18t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/snippets/words/sekunden-18t"
+      }
+    ]
+  },
+  "bunker/eclipse/snippets/words/systemmeldung-22t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/snippets/words/systemmeldung-22t"
+      }
+    ]
+  },
+  "bunker/eclipse/snippets/words/ueberpruefe-25t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/snippets/words/ueberpruefe-25t"
+      }
+    ]
+  },
+  "bunker/eclipse/snippets/words/uhr-14t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/snippets/words/uhr-14t"
+      }
+    ]
+  },
+  "bunker/eclipse/snippets/words/update-17t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/snippets/words/update-17t"
+      }
+    ]
+  },
+  "bunker/eclipse/snippets/words/warnung-13t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/snippets/words/warnung-13t"
+      }
+    ]
+  },
+  "bunker/eclipse/snippets/words/zaehlung-17t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/snippets/words/zaehlung-17t"
+      }
+    ]
+  },
+  "bunker/eclipse/system_message/bitte_durchgang_freihalten-32t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/system_message/bitte_durchgang_freihalten-32t"
+      }
+    ]
+  },
+  "bunker/eclipse/system_message/eclipse_beobachtet-42t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/system_message/eclipse_beobachtet-42t"
+      }
+    ]
+  },
+  "bunker/eclipse/system_message/neue_rohrpost-54t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/system_message/neue_rohrpost-54t"
+      }
+    ]
+  },
+  "bunker/eclipse/system_message/rauchen-96t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/system_message/rauchen-96t"
+      }
+    ]
+  },
+  "bunker/eclipse/system_message/vorgang_protokolliert-29t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/system_message/vorgang_protokolliert-29t"
+      }
+    ]
+  },
+  "bunker/eclipse/system_message/access/zugriff_gestattet-30t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/system_message/access/zugriff_gestattet-30t"
+      }
+    ]
+  },
+  "bunker/eclipse/system_message/access/zugriff_verweigert-31t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/system_message/access/zugriff_verweigert-31t"
+      }
+    ]
+  },
+  "bunker/eclipse/system_message/access/zugriff_wird_ueberprueft-34t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/system_message/access/zugriff_wird_ueberprueft-34t"
+      }
+    ]
+  },
+  "bunker/eclipse/system_message/bunker_systems/alle_systeme_hochgefahren-46t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/system_message/bunker_systems/alle_systeme_hochgefahren-46t"
+      }
+    ]
+  },
+  "bunker/eclipse/system_message/bunker_systems/alle_systeme_standby_deaktiviert-66t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/system_message/bunker_systems/alle_systeme_standby_deaktiviert-66t"
+      }
+    ]
+  },
+  "bunker/eclipse/system_message/bunker_systems/systemstatus_stabil-85t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/system_message/bunker_systems/systemstatus_stabil-85t"
+      }
+    ]
+  },
+  "bunker/eclipse/system_message/door/tuer_geoeffnet-20t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/system_message/door/tuer_geoeffnet-20t"
+      }
+    ]
+  },
+  "bunker/eclipse/system_message/door/tuer_geschlossen-24t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/system_message/door/tuer_geschlossen-24t"
+      }
+    ]
+  },
+  "bunker/eclipse/system_message/door/tuer_oeffnet-17t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/system_message/door/tuer_oeffnet-17t"
+      }
+    ]
+  },
+  "bunker/eclipse/system_message/door/tuer_schliesst-20t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/system_message/door/tuer_schliesst-20t"
+      }
+    ]
+  },
+  "bunker/eclipse/system_message/locations/kornspeicher_warnung-203t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/system_message/locations/kornspeicher_warnung-203t",
+        "stream": true
+      }
+    ]
+  },
+  "bunker/eclipse/system_message/locations/sektor_unterliegt_gesonderten_protokollen-95t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/system_message/locations/sektor_unterliegt_gesonderten_protokollen-95t"
+      }
+    ]
+  },
+  "bunker/eclipse/system_message/locations/evacuation/a_deck_reaumen-39t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/system_message/locations/evacuation/a_deck_reaumen-39t"
+      }
+    ]
+  },
+  "bunker/eclipse/system_message/locations/evacuation/b_deck_reaumen-36t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/system_message/locations/evacuation/b_deck_reaumen-36t"
+      }
+    ]
+  },
+  "bunker/eclipse/system_message/locations/evacuation/c_deck_reaumen-39t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/system_message/locations/evacuation/c_deck_reaumen-39t"
+      }
+    ]
+  },
+  "bunker/eclipse/system_message/locations/evacuation/deck_0_reaumen-34t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/system_message/locations/evacuation/deck_0_reaumen-34t"
+      }
+    ]
+  },
+  "bunker/eclipse/system_message/locations/evacuation/d_deck_reaumen-38t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/system_message/locations/evacuation/d_deck_reaumen-38t"
+      }
+    ]
+  },
+  "bunker/eclipse/system_message/o2/lueftung_gestartet-26t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/system_message/o2/lueftung_gestartet-26t"
+      }
+    ]
+  },
+  "bunker/eclipse/system_message/o2/lueftung_gestoppt-25t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/system_message/o2/lueftung_gestoppt-25t"
+      }
+    ]
+  },
+  "bunker/eclipse/system_message/o2/sauerstoffgeneration_gestartet-45t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/system_message/o2/sauerstoffgeneration_gestartet-45t"
+      }
+    ]
+  },
+  "bunker/eclipse/system_message/o2/sauerstoffgeneration_gestoppt-42t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/system_message/o2/sauerstoffgeneration_gestoppt-42t"
+      }
+    ]
+  },
+  "bunker/eclipse/system_message/organization/alle_bewohner_in_kantine-68t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/system_message/organization/alle_bewohner_in_kantine-68t"
+      }
+    ]
+  },
+  "bunker/eclipse/system_message/organization/kantine_notfall-153t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/system_message/organization/kantine_notfall-153t",
+        "stream": true
+      }
+    ]
+  },
+  "bunker/eclipse/system_message/organization/rationsausgabe-102t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/system_message/organization/rationsausgabe-102t"
+      }
+    ]
+  },
+  "bunker/eclipse/system_message/schleusen/bitte_warten-20t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/system_message/schleusen/bitte_warten-20t"
+      }
+    ]
+  },
+  "bunker/eclipse/system_message/schleusen/bitte_zuegig_passieren-39t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/system_message/schleusen/bitte_zuegig_passieren-39t"
+      }
+    ]
+  },
+  "bunker/eclipse/system_message/schleusen/schleuse_wird_geoeffnet-31t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/system_message/schleusen/schleuse_wird_geoeffnet-31t"
+      }
+    ]
+  },
+  "bunker/eclipse/system_message/schleusen/schleuse_wird_verriegelt-34t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/system_message/schleusen/schleuse_wird_verriegelt-34t"
+      }
+    ]
   }
 }
