@@ -45,6 +45,13 @@
       }
     ]
   },
+  "bunker/vent": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/vent"
+      }
+    ]
+  },
   "bunker/eclipse/bunkeroeffnung/analyse_a_verstrahlt-231t": {
     "sounds": [
       {
@@ -137,7 +144,7 @@
   "bunker/eclipse/bunkeroeffnung/innere_schleuse_entriegelt-37t": {
     "sounds": [
       {
-        "name": "ldars:bunker/eclipse/bunkeroeffnung/innere_schleuse_verriegelt-80t"
+        "name": "ldars:bunker/eclipse/bunkeroeffnung/innere_schleuse_entriegelt-37t"
       }
     ]
   },
