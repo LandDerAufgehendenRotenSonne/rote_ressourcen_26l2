@@ -1,8 +1,17 @@
 {
-    "providers": [
-        {
-            "type": "reference",
-            "id": "ldars:pause_menu"
-        }
-    ]
+  "providers": [
+    {
+      "type": "reference",
+      "id": "ldars:pause_menu"
+    },
+    {
+      "type": "bitmap",
+      "file": "ldars:blackscreen.png",
+      "ascent": 1015,
+      "height": 3000,
+      "chars": [
+        "\uE000"
+      ]
+    }
+  ]
 }
