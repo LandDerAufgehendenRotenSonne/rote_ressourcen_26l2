@@ -52,6 +52,64 @@
       }
     ]
   },
+  "bunker/opening_alarm": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/opening_alarm",
+		"stream": true
+      }
+    ]
+  },
+  "bunker/opening_mechanical": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/opening_mechanical",
+		"stream": true
+      }
+    ]
+  },
+  "bad_to_the_bone": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/bad_to_the_bone"
+      }
+    ]
+  },
+  "bunker/sfx/klaxon_1": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/sfx/klaxon_1"
+      }
+    ]
+  },
+  "bunker/sfx/machine_shutdown": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/sfx/machine_shutdown"
+      }
+    ]
+  },
+  "bunker/sfx/power_down": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/sfx/power_down"
+      }
+    ]
+  },
+  "bunker/sfx/power_resotre_alarm": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/sfx/power_resotre_alarm"
+      }
+    ]
+  },
+  "bunker/sfx/alarm_going_up": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/sfx/alarm_going_up"
+      }
+    ]
+  },
   "bunker/eclipse/bunkeroeffnung/analyse_a_verstrahlt-231t": {
     "sounds": [
       {
