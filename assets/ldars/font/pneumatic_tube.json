@@ -1,0 +1,46 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "ldars:pneumatic_tube/00.png",
+      "height": 40,
+      "ascent": 40,
+      "chars": [
+        "\uEF00"
+      ]
+    },
+	{
+      "type": "bitmap",
+      "file": "ldars:pneumatic_tube/10.png",
+      "height": 40,
+      "ascent": 40,
+      "chars": [
+        "\uEF10"
+      ]
+    },
+	{
+      "type": "bitmap",
+      "file": "ldars:pneumatic_tube/01.png",
+      "height": 40,
+      "ascent": 10,
+      "chars": [
+        "\uEF01"
+      ]
+    },
+	{
+      "type": "bitmap",
+      "file": "ldars:pneumatic_tube/11.png",
+      "height": 40,
+      "ascent": 10,
+      "chars": [
+        "\uEF11"
+      ]
+    },
+	{
+	"type": "space",
+	"advances": {
+		"\uEF20": -1
+		}
+	}
+  ]
+}
