@@ -96,10 +96,17 @@
       }
     ]
   },
-  "bunker/sfx/power_resotre_alarm": {
+  "bunker/sfx/power_up": {
     "sounds": [
       {
-        "name": "ldars:bunker/sfx/power_resotre_alarm"
+        "name": "ldars:bunker/sfx/power_up"
+      }
+    ]
+  },
+  "bunker/sfx/power_restore_alarm": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/sfx/power_restore_alarm"
       }
     ]
   },
