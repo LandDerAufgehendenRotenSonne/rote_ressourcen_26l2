@@ -73,7 +73,7 @@
   "advancements.ldars.bunker.name.spawn": "Öffne die Augen",
   "advancements.ldars.bunker.description.spawn": "Willkommen bei LDARS - Ground Zero!",
   "advancements.ldars.bunker.name.open_door": "Öffnet die Türen",
-  "advancements.ldars.bunker.description.open_door": "Nun erzähle deine Geschichte",
+  "advancements.ldars.bunker.description.open_door": "Lasset die Geschichte beginnen",
  
   "name.item.ldars.zionist_plum": "Unholy™ Zionisten Zwetschge",
   "name.item.ldars.pali_peach": "Unholy™ Pali Pfirsich",
@@ -86,7 +86,7 @@
   "name.item.ldars.rad_away_serum": "Rad-Away Serum",
   "name.item.ldars.backpack": "Backpack",
   "name.item.ldars.shielding_zone": "Schutzzone",
-  "name.item.ldars.medikit": "Medikit",
+  "name.item.ldars.plaster": "Pflaster",
   "item.minecraft.potion.effect.ldars_healing": "Heilungstrank",
   "name.item.ldars.geiger_counter": "Geigerzähler",
   "description.item.ldars.geiger_counter": "Ein Gerät zum messen der Radioaktiven Strahlung in der Umgebung",
@@ -147,6 +147,16 @@
   "item.minecraft.golden_hoe": "Goldsichel",
   "item.minecraft.diamond_hoe": "Diamantsichel",
   "item.minecraft.netherite_hoe": "Netheritsichel",
+  
+  "name.item.ldars.vegan.egg": "Veganes Ei",
+  "name.item.ldars.vegan.leather_leggins": "Kunstleder Leggins",
+  "name.item.ldars.vegan.leather_chestplate": "Kunstleder Brustplatte",
+  "name.item.ldars.vegan.leather_boots": "Kunstleder Schuhe",
+  "name.item.ldars.vegan.leather_helmet": "Kunstleder Helm",
+  "name.item.ldars.vegan.slime_ball": "Künstlicher Schleimball",
+  "name.item.ldars.vegan.plaented_steak": "Plänted™ Steak",
+  "name.item.ldars.vegan.oat_milk": "Hafermilch",
+  
 
   "entity.minecraft.chicken": "Genoss:in Huhn",
   "entity.minecraft.cow": "Genoss:in Kuh",
