@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "ldars:item/plaster"
+    "layer0": "ldars:item/medikit"
   }
 }
