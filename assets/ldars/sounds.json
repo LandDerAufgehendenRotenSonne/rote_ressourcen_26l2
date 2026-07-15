@@ -110,6 +110,34 @@
       }
     ]
   },
+  "bunker/sfx/airlock": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/sfx/Airlock"
+      }
+    ]
+  },
+  "bunker/sfx/ding_dong": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/sfx/ding_dong"
+      }
+    ]
+  },
+  "bunker/sfx/alarm_background": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/sfx/alarm_background"
+      }
+    ]
+  },
+  "bunker/sfx/emergency_generic": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/sfx/emergency_generic"
+      }
+    ]
+  },
   "bunker/sfx/alarm_going_up": {
     "sounds": [
       {
