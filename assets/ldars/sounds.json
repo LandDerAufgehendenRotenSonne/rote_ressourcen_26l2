@@ -131,6 +131,13 @@
       }
     ]
   },
+  "bunker/sfx/fire_bell": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/sfx/fire_bell"
+      }
+    ]
+  },
   "bunker/sfx/emergency_generic": {
     "sounds": [
       {
