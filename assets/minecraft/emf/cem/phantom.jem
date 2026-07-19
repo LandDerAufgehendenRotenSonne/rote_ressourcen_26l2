@@ -68,6 +68,9 @@
 					"id": "fly2",
 					"invertAxis": "xy",
 					"translate": [-20, 3.25, -2.16667],
+					"boxes": [
+						{"coordinates": [-1.5, -2.5, -0.83333, 3, 3, 5], "textureOffset": [0, 48]}
+					],
 					"submodels": [
 						{
 							"id": "wing3",
@@ -101,15 +104,15 @@
 								}
 							]
 						}
-					],
-					"boxes": [
-						{"coordinates": [-1.5, -2.5, -0.83333, 3, 3, 5], "textureOffset": [0, 48]}
 					]
 				},
 				{
 					"id": "fly3",
 					"invertAxis": "xy",
 					"translate": [16, 3.25, -2.16667],
+					"boxes": [
+						{"coordinates": [-1.5, -2.5, -0.83333, 3, 3, 5], "textureOffset": [0, 48]}
+					],
 					"submodels": [
 						{
 							"id": "wing5",
@@ -143,9 +146,6 @@
 								}
 							]
 						}
-					],
-					"boxes": [
-						{"coordinates": [-1.5, -2.5, -0.83333, 3, 3, 5], "textureOffset": [0, 48]}
 					]
 				},
 				{
