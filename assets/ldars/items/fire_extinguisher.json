@@ -1,0 +1,28 @@
+{
+  "model": {
+    "type": "minecraft:condition",
+    "on_false": {
+      "type": "minecraft:model",
+      "model": "ldars:item/fire_extinguisher"
+    },
+    "on_true": {
+      "type": "minecraft:range_dispatch",
+      "entries": [
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "ldars:item/fire_extinguisher_pulled"
+          },
+          "threshold": 0
+        }
+      ],
+      "fallback": {
+        "type": "minecraft:model",
+        "model": "ldars:item/fire_extinguisher"
+      },
+      "property": "minecraft:use_duration",
+      "scale": 0.05
+    },
+    "property": "minecraft:using_item"
+  }
+}

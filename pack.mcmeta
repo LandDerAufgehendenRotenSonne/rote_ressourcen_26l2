@@ -13,7 +13,7 @@
       {"text": "\n(2026, v0.00, ","color": "dark_gray"},
       {"player": "violmia","color": "white","hover_event": {"action": "show_text","value": "Violmia"}},
       {"player": "Monsbot","color": "white","click_event": {"action": "open_url","url": "https://youtu.be/_DVrDv_zJo8"},"hover_event": {"action": "show_text","value": "Mons"}},
-      {"player": "JT_Plays","color": "white","hover_event": {"action": "show_text","value": "Juego"}},
+      {"player": "JT_Plays","color": "white","hover_event": {"action": "show_text","value": "Jeugeo"}},
       {"player": "Bluestone4","color": "white","click_event": {"action": "open_url","url": "https://youtu.be/dQw4w9WgXcQ"},"hover_event": {"action": "show_text","value": "Bluestone"}},
       {"text": ")","color": "dark_gray"}
     ]
