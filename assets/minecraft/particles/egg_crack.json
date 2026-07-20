@@ -1,5 +1,13 @@
 {
   "textures": [
-    "ldars:radiation"
+    "ldars:radiation0",
+    "ldars:radiation1",
+    "ldars:radiation2",
+    "ldars:radiation3",
+    "ldars:radiation_dust0",
+    "ldars:radiation_dust1",
+    "ldars:radiation_dust2",
+    "ldars:radiation_dust3",
+    "ldars:radiation_dust4"
   ]
 }
