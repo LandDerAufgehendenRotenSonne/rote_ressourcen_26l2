@@ -161,8 +161,12 @@
   "name.item.ldars.vegan.dandoline_honey": "Veganer Löwenzahnhonig",
   "name.item.ldars.vegan.honey_comb": "Vegane Honigwabe",
   
-  "item.minecraft.music_disc_staldesc": "Bundeswehr - Du Bist Nicht Allein",
+  "item.minecraft.music_disc_stal.desc": "Bundeswehr - Du Bist ich allein",
   "jukebox_song.minecraft.stal":"Bundeswehr - Du Bist Nicht Allein",
+  "item.minecraft.music_disc_11.desc": "Dekarldent - Deutschland, Volk, Bier",
+  "jukebox_song.minecraft.11":"Dekarldent - Deutschland, Volk, Bier",
+  "item.minecraft.music_disc_otherside.desc": "Extrem Kleiner Schwämmel - Helm über Herz",
+  "jukebox_song.minecraft.otherside":"Extrem Kleiner Schwämmel - Helm über Herz",
 
   "entity.minecraft.chicken": "Genoss:in Huhn",
   "entity.minecraft.cow": "Genoss:in Kuh",
