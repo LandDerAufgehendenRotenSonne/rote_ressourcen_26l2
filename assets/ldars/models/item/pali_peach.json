@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "ldars:item/pali_peach"
+    "layer0": "ldars:item/heilig/pali_peach"
   }
 }

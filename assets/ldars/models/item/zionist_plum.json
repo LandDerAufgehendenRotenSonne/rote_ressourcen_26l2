@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "ldars:item/zionist_plum"
+    "layer0": "ldars:item/heilig/zionist_plum"
   }
 }
