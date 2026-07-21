@@ -391,6 +391,20 @@
       }
     ]
   },
+  "bunker/eclipse/havarie/strahlung-76t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/havarie/strahlung-76t"
+      }
+    ]
+  },
+  "bunker/eclipse/havarie/generator-30t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/havarie/generator-30t"
+      }
+    ]
+  },
   "bunker/eclipse/havarie/emergency/brand_erkannt-24t": {
     "sounds": [
       {
@@ -508,6 +522,13 @@
     "sounds": [
       {
         "name": "ldars:bunker/eclipse/snippets/a-13t"
+      }
+    ]
+  },
+  "bunker/eclipse/snippets/ich_wiederhole-21t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/snippets/ich_wiederhole-21t"
       }
     ]
   },
@@ -1090,6 +1111,13 @@
     "sounds": [
       {
         "name": "ldars:bunker/eclipse/system_message/locations/sektor_unterliegt_gesonderten_protokollen-95t"
+      }
+    ]
+  },
+  "bunker/eclipse/system_message/locations/evacuation/notfallevakuierung-65t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/system_message/locations/evacuation/notfallevakuierung-65t"
       }
     ]
   },
