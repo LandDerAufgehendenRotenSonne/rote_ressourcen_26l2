@@ -60,6 +60,14 @@
       }
     ]
   },
+  "bunker/eclipse/system_message/eclipse_crash-558t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/system_message/eclipse_crash-558t",
+		"stream": true
+      }
+    ]
+  },
   "bunker/opening_mechanical": {
     "sounds": [
       {
@@ -998,6 +1006,20 @@
     "sounds": [
       {
         "name": "ldars:bunker/eclipse/system_message/bitte_durchgang_freihalten-32t"
+      }
+    ]
+  },
+  "bunker/eclipse/system_message/sofort_bunkeroeffnung_einleiten-41t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/system_message/sofort_bunkeroeffnung_einleiten-41t"
+      }
+    ]
+  },
+  "bunker/eclipse/system_message/abgesicherter_modus_aktiviert-44t": {
+    "sounds": [
+      {
+        "name": "ldars:bunker/eclipse/system_message/abgesicherter_modus_aktiviert-44t"
       }
     ]
   },
