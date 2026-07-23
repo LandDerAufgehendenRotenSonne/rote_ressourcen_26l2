@@ -124,8 +124,12 @@
 
   "item.ldars.mobs.touchmenot": "Sprengkraut",
   "item.ldars.mobs.botfly": "Dasselfliege",
+  "item.ldars.mobs.spidercow": "Spinnerkuh",
+  "item.ldars.mobs.oink": "Oink",
   "item.ldars.mobs.touchmenot_spawn_egg": "Sprengkraut-Spawn-Ei",
   "item.ldars.mobs.botfly_spawn_egg": "Dasselfliege-Spawn-Ei",
+  "item.ldars.mobs.spidercow_spawn_egg": "Spinnerkuh-Spawn-Ei",
+  "item.ldars.mobs.oink_spawn_egg": "Oink-Spawn-Ei",
   
   "gui.ldars.chat.notification": "TODO",
   "gui.ldars.revive.fail.notification": "Du kannst diesen Spieler grade nicht Stabilisieren %s Sekunden verbleibend"

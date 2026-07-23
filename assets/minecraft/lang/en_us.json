@@ -124,8 +124,12 @@
 
   "item.ldars.mobs.touchmenot": "Touchmenot",
   "item.ldars.mobs.botfly": "Botfly",
+  "item.ldars.mobs.spidercow": "Spidercow",
+  "item.ldars.mobs.oink": "Oink",
   "item.ldars.mobs.touchmenot_spawn_egg": "Touchmenot Spawn Egg",
   "item.ldars.mobs.botfly_spawn_egg": "Botfly Spawn Egg",
+  "item.ldars.mobs.spidercow_spawn_egg": "Spidercow Spawn Egg",
+  "item.ldars.mobs.oink_spawn_egg": "Oink Spawn Egg",
   
   "gui.ldars.chat.notification": "You don't have the permission to send messages! You can only use /msg <name> <message> to chat with the Team.",
   "gui.ldars.revive.fail.notification": "You cannot stabilize players yet! %s seconds remaining",
