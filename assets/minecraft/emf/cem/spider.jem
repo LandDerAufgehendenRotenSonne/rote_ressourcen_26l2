@@ -6,33 +6,33 @@
 			"part": "head",
 			"id": "head",
 			"invertAxis": "xy",
-			"translate": [0, -9, 3],
+			"translate": [0, -12, 3],
 			"boxes": [
-				{"coordinates": [-4, 5, -11, 8, 8, 8], "textureOffset": [32, 4]}
+				{"coordinates": [-4, 8, -11, 8, 8, 8], "textureOffset": [32, 4]}
 			]
 		},
 		{
 			"part": "neck",
 			"id": "neck",
 			"invertAxis": "xy",
-			"translate": [0, -9, 0],
+			"translate": [0, -12, 0],
 			"boxes": [
-				{"coordinates": [-3, 6, -3, 6, 6, 6], "textureOffset": [0, 0]}
+				{"coordinates": [-3, 9, -3, 6, 6, 6], "textureOffset": [0, 0]}
 			]
 		},
 		{
 			"part": "body",
 			"id": "body",
 			"invertAxis": "xy",
-			"translate": [0, -9, -9],
+			"translate": [0, -12, -9],
 			"boxes": [
-				{"coordinates": [-5, 5, 3, 10, 8, 12], "textureOffset": [0, 12]}
+				{"coordinates": [-5, 8, 3, 10, 8, 12], "textureOffset": [0, 12]}
 			],
 			"submodels": [
 				{
 					"id": "cow_legs",
 					"invertAxis": "xy",
-					"translate": [0, 0, 0],
+					"translate": [0, 3, 0],
 					"submodels": [
 						{
 							"id": "cow_leg1",
@@ -73,7 +73,7 @@
 				{
 					"id": "cow_head",
 					"invertAxis": "xy",
-					"translate": [0, 13, -5],
+					"translate": [0, 16, -5],
 					"rotate": [22.5, 0, 0],
 					"boxes": [
 						{"coordinates": [4, 6, -5, 1, 3, 1], "textureOffset": [102, 32]},
@@ -154,7 +154,7 @@
 				{
 					"id": "cow_body",
 					"invertAxis": "xy",
-					"translate": [0, 14, 4],
+					"translate": [0, 17, 4],
 					"rotate": [-90, 0, 0],
 					"boxes": [
 						{"coordinates": [-6, -9, -5, 12, 18, 10], "textureOffset": [82, 4]}
@@ -193,72 +193,81 @@
 			"part": "leg1",
 			"id": "leg1",
 			"invertAxis": "xy",
-			"translate": [-4, -9, -4],
+			"translate": [-4, -12, -4],
 			"boxes": [
-				{"coordinates": [3, 8, 3, 16, 2, 2], "textureOffset": [18, 0]}
+				{"coordinates": [3, 11, 3, 16, 2, 2], "textureOffset": [18, 0]}
 			]
 		},
 		{
 			"part": "leg2",
 			"id": "leg2",
 			"invertAxis": "xy",
-			"translate": [4, -9, -4],
+			"translate": [4, -12, -4],
 			"boxes": [
-				{"coordinates": [-19, 8, 3, 16, 2, 2], "textureOffset": [18, 0]}
+				{"coordinates": [-19, 11, 3, 16, 2, 2], "textureOffset": [18, 0]}
 			]
 		},
 		{
 			"part": "leg3",
 			"id": "leg3",
 			"invertAxis": "xy",
-			"translate": [-4, -9, -1],
+			"translate": [-4, -12, -1],
 			"boxes": [
-				{"coordinates": [3, 8, 0, 16, 2, 2], "textureOffset": [18, 0]}
+				{"coordinates": [3, 11, 0, 16, 2, 2], "textureOffset": [18, 0]}
 			]
 		},
 		{
 			"part": "leg4",
 			"id": "leg4",
 			"invertAxis": "xy",
-			"translate": [4, -9, -1],
+			"translate": [4, -12, -1],
 			"boxes": [
-				{"coordinates": [-19, 8, 0, 16, 2, 2], "textureOffset": [18, 0]}
+				{"coordinates": [-19, 11, 0, 16, 2, 2], "textureOffset": [18, 0]}
 			]
 		},
 		{
 			"part": "leg5",
 			"id": "leg5",
 			"invertAxis": "xy",
-			"translate": [-4, -9, 2],
+			"translate": [-4, -12, 2],
 			"boxes": [
-				{"coordinates": [3, 8, -3, 16, 2, 2], "textureOffset": [18, 0]}
+				{"coordinates": [3, 11, -3, 16, 2, 2], "textureOffset": [18, 0]}
 			]
 		},
 		{
 			"part": "leg6",
 			"id": "leg6",
 			"invertAxis": "xy",
-			"translate": [4, -9, 2],
+			"translate": [4, -12, 2],
 			"boxes": [
-				{"coordinates": [-19, 8, -3, 16, 2, 2], "textureOffset": [18, 0]}
+				{"coordinates": [-19, 11, -3, 16, 2, 2], "textureOffset": [18, 0]}
 			]
 		},
 		{
 			"part": "leg7",
 			"id": "leg7",
 			"invertAxis": "xy",
-			"translate": [-4, -9, 5],
+			"translate": [-4, -12, 5],
 			"boxes": [
-				{"coordinates": [3, 8, -6, 16, 2, 2], "textureOffset": [18, 0]}
+				{"coordinates": [3, 11, -6, 16, 2, 2], "textureOffset": [18, 0]}
 			]
 		},
 		{
 			"part": "leg8",
 			"id": "leg8",
 			"invertAxis": "xy",
-			"translate": [4, -9, 5],
+			"translate": [4, -12, 5],
 			"boxes": [
-				{"coordinates": [-19, 8, -6, 16, 2, 2], "textureOffset": [18, 0]}
+				{"coordinates": [-19, 11, -6, 16, 2, 2], "textureOffset": [18, 0]}
+			]
+		},
+		{
+			"part": "hitbox",
+			"id": "hitbox",
+			"invertAxis": "xy",
+			"translate": [0, -3, 0],
+			"boxes": [
+				{"coordinates": [-6, 0, -5, 12, 22, 18], "textureOffset": [-26, -16]}
 			]
 		}
 	]
