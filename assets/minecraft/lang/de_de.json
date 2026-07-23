@@ -132,7 +132,7 @@
   "item.ldars.mobs.oink_spawn_egg": "Oink-Spawn-Ei",
   
   "gui.ldars.chat.notification": "TODO",
-  "gui.ldars.revive.fail.notification": "Du kannst diesen Spieler grade nicht Stabilisieren %s Sekunden verbleibend"
+  "gui.ldars.revive.fail.notification": "Du kannst diesen Spieler grade nicht Stabilisieren %s Sekunden verbleibend",
 
   "item.minecraft.blaze_rod": "Brennstab",
 
@@ -201,6 +201,7 @@
   "item.minecraft.cooked_rabbit": "Gebratene Kaninchenleiche",
   "item.minecraft.cooked_salmon": "Gebratene Lachsleiche",
   "entity.minecraft.wandering_trader": "Kapitalist:in",
+  "entity.minecraft.vex": "Mücke",
   
   "item.minecraft.name_tag": "Parteiausweis",
   "item.minecraft.writable_book": "Unfertiges Manifest (Buch)",
