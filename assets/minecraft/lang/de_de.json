@@ -91,7 +91,7 @@
   "name.item.ldars.geiger_counter": "Geigerzähler",
   "description.item.ldars.geiger_counter": "Ein Gerät zum messen der Radioaktiven Strahlung in der Umgebung",
   "name.item.ldars.dosimeter": "Dosimeter",
-  "description.item.ldars.dosimeter.l1": "Ein gerät zum messen der eigenen Radioaktiven Strahlung",
+  "description.item.ldars.dosimeter.l1": "Ein gerät zum Messen der eigenen Radioaktiven Strahlung",
   "description.item.ldars.dosimeter.l2": "Kann auch genutzt werden um das Strahlungslevel eines",
   "description.item.ldars.dosimeter.l3": "Anderen Spielers herauszufinden indem man diesen Rechtsklickt.",
   "name.block.ldars.dirt_filter": "Erdfilter",
