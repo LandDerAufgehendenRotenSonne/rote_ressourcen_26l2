@@ -67926,8 +67926,8 @@
 			"translation": [0, 5.25, 0]
 		},
 		"head": {
-			"translation": [0.75, 21, 25],
-			"scale": [4, 4, 4]
+			"translation": [0.5, 21, 10.25],
+			"scale": [2, 2, 2]
 		},
 		"fixed": {
 			"rotation": [-90, 0, 0],
