@@ -121,7 +121,7 @@
   "bunker/sfx/airlock": {
     "sounds": [
       {
-        "name": "ldars:bunker/sfx/Airlock"
+        "name": "ldars:bunker/sfx/airlock"
       }
     ]
   },

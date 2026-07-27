@@ -3,8 +3,8 @@
 	"credit": "Made by Jeugeo",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "ldars:item/workstation_old",
-		"particle": "ldars:item/workstation_old"
+		"0": "ldars:item/decoration/workstation_old",
+		"particle": "ldars:item/decoration/workstation_old"
 	},
 	"elements": [
 		{

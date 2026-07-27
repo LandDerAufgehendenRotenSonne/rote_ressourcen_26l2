@@ -1,0 +1,82 @@
+{
+    "entity.vex.death": {
+        "sounds": [
+            {
+                "name": "mob/fly"
+            }
+        ],
+        "replace": "true"
+    },
+    "entity.vex.charge": {
+        "sounds": [
+            {
+                "name": "mob/mosquito"
+            }
+        ],
+        "replace": "true"
+    },
+    "entity.vex.ambient": {
+        "sounds": [
+            {
+                "name": "mob/mosquito"
+            }
+        ],
+        "replace": "true"
+    },
+    "entity.vex.hurt": {
+        "sounds": [
+            {
+                "name": "mob/mosquito"
+            }
+        ],
+        "replace": "true"
+    },
+    "entity.phantom.swoop": {
+        "sounds": [
+            {
+                "name": "mob/fly"
+            }
+        ],
+        "replace": "true"
+    },
+    "entity.phantom.hurt": {
+        "sounds": [
+            {
+                "name": "mob/fly"
+            }
+        ],
+        "replace": "true"
+    },
+    "entity.phantom.flap": {
+        "sounds": [
+            {
+                "name": "mob/fly"
+            }
+        ],
+        "replace": "true"
+    },
+    "entity.phantom.death": {
+        "sounds": [
+            {
+                "name": "mob/fly"
+            }
+        ],
+        "replace": "true"
+    },
+    "entity.phantom.bite": {
+        "sounds": [
+            {
+                "name": "mob/fly"
+            }
+        ],
+        "replace": "true"
+    },
+    "entity.phantom.ambient": {
+        "sounds": [
+            {
+                "name": "mob/fly"
+            }
+        ],
+        "replace": "true"
+    }
+}

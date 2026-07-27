@@ -1,0 +1,90 @@
+{
+	"credit": "Made with Blockbench",
+	"textureSize": [64, 64],
+	"texture": "textures/entity/illager/evoker_fangs.png",
+	"models": [
+		{
+			"part": "base",
+			"id": "base",
+			"invertAxis": "xy",
+			"translate": [-5, -12, 5],
+			"boxes": [
+				{"coordinates": [-5, 0, -5, 10, 12, 10], "textureOffset": [0, 0]}
+			],
+			"submodels": [
+				{
+					"id": "shroom",
+					"invertAxis": "xy",
+					"translate": [0, -6, 0],
+					"boxes": [
+						{"coordinates": [-1, -2.01, -1, 2, 14, 2], "textureOffset": [0, 30]},
+						{"coordinates": [-3, 7, -3, 6, 5, 6], "textureOffset": [8, 30]}
+					],
+					"submodels": [
+						{
+							"id": "jaws",
+							"invertAxis": "xy",
+							"translate": [0, 13, 0],
+							"submodels": [
+								{
+									"id": "one",
+									"invertAxis": "xy",
+									"translate": [0, -1, -2],
+									"boxes": [
+										{"coordinates": [-4, 0.01, -0.5, 8, 12, 3], "textureOffset": [0, 49]}
+									]
+								},
+								{
+									"id": "two",
+									"invertAxis": "xy",
+									"translate": [0, -1, 2],
+									"rotate": [0, -180, 0],
+									"boxes": [
+										{"coordinates": [-4, 0.01, -0.5, 8, 12, 3], "textureOffset": [0, 49]}
+									]
+								}
+							]
+						}
+					]
+				}
+			],
+			"animations": [
+				{
+					"one.rx": "torad(180)-upper_jaw.rz",
+					"two.rx": "one.rx"
+				}
+			]
+		},
+		{
+			"part": "upper_jaw",
+			"id": "upper_jaw",
+			"invertAxis": "xy",
+			"translate": [-0.5, -12, 4],
+			"rotate": [-180, -180, 0],
+			"boxes": [
+				{"coordinates": [-3.5, -2, -4, 4, 14, 8], "textureOffset": [40, 0]}
+			],
+			"animations": [
+				{
+					"this.rx": 0,
+					"this.ry": 0
+				}
+			]
+		},
+		{
+			"part": "lower_jaw",
+			"id": "lower_jaw",
+			"invertAxis": "xy",
+			"translate": [-1.5, -12, -4],
+			"rotate": [-180, 0, 0],
+			"boxes": [
+				{"coordinates": [-2.5, -2, 4, 4, 14, 8], "textureOffset": [40, 0]}
+			],
+			"animations": [
+				{
+					"this.rx": 0
+				}
+			]
+		}
+	]
+}

@@ -3,8 +3,8 @@
 	"credit": "Made by Jeugeo",
 	"texture_size": [128, 128],
 	"textures": {
-		"0": "ldars:item/radioactive_barrel",
-		"particle": "ldars:item/radioactive_barrel"
+		"0": "ldars:item/decoration/radioactive_barrel",
+		"particle": "ldars:item/decoration/radioactive_barrel"
 	},
 	"elements": [
 		{
