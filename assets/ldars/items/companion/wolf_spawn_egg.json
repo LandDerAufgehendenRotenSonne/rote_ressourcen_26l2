@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "ldars:item/companion/wolf_spawn_egg"
+    "model": "ldars:item/spawn_eggs/wolf_spawn_egg"
   }
 }
