@@ -133284,8 +133284,12 @@
 		"thirdperson_lefthand": {
 			"translation": [1, 7.5, 9]
 		},
+		"gui": {
+			"rotation": [11, 167, 0],
+			"translation": [0, 5.25, 0]
+		},
 		"head": {
-			"translation": [6.5, 10, 7.5],
+			"translation": [6.5, 9.5, 6.25],
 			"scale": [2, 2, 2]
 		},
 		"fixed": {
@@ -133293,7 +133297,7 @@
 			"translation": [0, 0, -7.75]
 		},
 		"on_shelf": {
-			"rotation": [0, 180, 0]
+			"rotation": [0, -180, 0]
 		}
 	},
 	"groups": [
