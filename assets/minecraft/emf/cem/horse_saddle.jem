@@ -1,0 +1,52 @@
+{
+	"credit": "Made with Blockbench",
+	"textureSize": [64, 64],
+	"texture": "textures/entity/horse/horse_saddle.png",
+	"models": [
+		{
+			"part": "saddle",
+			"id": "saddle",
+			"invertAxis": "xy",
+			"translate": [0, -13, -6],
+			"boxes": [
+				{"coordinates": [-6, 12, -3, 12, 9, 9], "textureOffset": [25, 0], "sizeAdd": 0.5}
+			]
+		},
+		{
+			"part": "head_saddle",
+			"id": "head_saddle",
+			"invertAxis": "xy",
+			"translate": [0, -22, 8.9]
+		},
+		{
+			"part": "mouth_saddle_wrap",
+			"id": "mouth_saddle_wrap",
+			"invertAxis": "xy",
+			"translate": [0, -22, 9]
+		},
+		{
+			"part": "left_saddle_mouth",
+			"id": "left_saddle_mouth",
+			"invertAxis": "xy",
+			"translate": [0, -22, 9]
+		},
+		{
+			"part": "right_saddle_mouth",
+			"id": "right_saddle_mouth",
+			"invertAxis": "xy",
+			"translate": [0, -22, 9]
+		},
+		{
+			"part": "left_saddle_line",
+			"id": "left_saddle_line",
+			"invertAxis": "xy",
+			"translate": [0, -25.5, 5.5]
+		},
+		{
+			"part": "right_saddle_line",
+			"id": "right_saddle_line",
+			"invertAxis": "xy",
+			"translate": [0, -25.5, 5.5]
+		}
+	]
+}
