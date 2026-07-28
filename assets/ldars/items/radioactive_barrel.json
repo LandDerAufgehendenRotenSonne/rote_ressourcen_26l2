@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "ldars:item/radioactive_barrel"
+    "model": "ldars:item/decoration/radioactive_barrel"
   }
 }

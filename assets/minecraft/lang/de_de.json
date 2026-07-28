@@ -119,7 +119,7 @@
   "gui.ldars.radiation.notification": "Du fühlst dich etwas seltsam...",
   "death.ldars.radiation": "Viel der Strahlung zum Opfer",
   "gui.ldars.radiation.world_border.notification": "Alles ist in dichten Nebel gehüllt du solltest nicht weiter gehen.",
-  "gui.ldars.radiation.infertile.notification": "TODO",
+  "gui.ldars.radiation.infertile.notification": "Dieses Gebiet ist zu verstrahlt, um Pflanzen anzubauen!",
   "death.ldars.radiation.world_border.death": "hat herausgefunden, dass nur die eigene Fantasie keine Grenzen kennt",
 
   "item.ldars.mobs.touchmenot": "Sprengkraut",
@@ -131,7 +131,7 @@
   "item.ldars.mobs.spidercow_spawn_egg": "Spinnerkuh-Spawn-Ei",
   "item.ldars.mobs.oink_spawn_egg": "Oink-Spawn-Ei",
   
-  "gui.ldars.chat.notification": "TODO",
+  "gui.ldars.chat.notification": "Du hast nicht die Berechtigungen, um anderen Spielern eine Nachricht zu senden! Nutze /msg <Name> <Nachricht> um dem Orga-Team zu schreiben.",
   "gui.ldars.revive.fail.notification": "Du kannst diesen Spieler grade nicht Stabilisieren %s Sekunden verbleibend",
 
   "item.minecraft.blaze_rod": "Brennstab",

@@ -3,8 +3,8 @@
 	"credit": "Made by Jeugeo",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "ldars:item/computer",
-		"particle": "ldars:item/computer"
+		"0": "ldars:item/decoration/computer",
+		"particle": "ldars:item/decoration/computer"
 	},
 	"elements": [
 		{
