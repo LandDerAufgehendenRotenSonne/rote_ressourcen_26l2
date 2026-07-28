@@ -131,7 +131,7 @@
   "item.ldars.mobs.spidercow_spawn_egg": "Spidercow Spawn Egg",
   "item.ldars.mobs.oink_spawn_egg": "Oink Spawn Egg",
   
-  "gui.ldars.chat.notification": "You don't have the permission to send messages! You can only use /msg <name> <message> to chat with the Team.",
+  "gui.ldars.chat.notification": "You don't have the permission to send messages! You can only use /msg <name> <message> to chat with the Staff.",
   "gui.ldars.revive.fail.notification": "You cannot stabilize players yet! %s seconds remaining",
 
   "item.minecraft.blaze_rod": "Fuel Rod",
