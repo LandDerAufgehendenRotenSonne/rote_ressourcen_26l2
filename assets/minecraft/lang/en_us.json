@@ -119,7 +119,8 @@
   "gui.ldars.radiation.notification": "You are feeling a bit strange...",
   "death.ldars.radiation": "succumbed to lethal radiation",
   "gui.ldars.radiation.world_border.notification": "Thick fog is rolling in. You should turn back here.",
-  "gui.ldars.radiation.infertile.notification": "This area is too radiated for plants to grow!",
+  "gui.ldars.radiation.infertile.notification": "This area is too radiated for plants to grow! Try it under a shelter.",
+  "gui.ldars.dry.infertile.notification": "This area is too dry for plants to grow!",
   "death.ldars.radiation.world_border.death": "has discovered, that only their dreams know no bounds",
 
   "item.ldars.mobs.touchmenot": "Touchmenot",
