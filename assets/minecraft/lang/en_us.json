@@ -130,6 +130,10 @@
   "item.ldars.mobs.botfly_spawn_egg": "Botfly Spawn Egg",
   "item.ldars.mobs.spidercow_spawn_egg": "Spidercow Spawn Egg",
   "item.ldars.mobs.oink_spawn_egg": "Oink Spawn Egg",
+
+  "attribute.name.horse.jump_strength": "Snorse Jump Strength",
+  "entity.minecraft.skeleton_horse": "Bicycle",
+  "item.ldars.bicycle_key": "Bicycle Key",
   
   "gui.ldars.chat.notification": "You don't have the permission to send messages! You can only use /msg <name> <message> to chat with the Staff.",
   "gui.ldars.revive.fail.notification": "You cannot stabilize players yet! %s seconds remaining",
@@ -177,7 +181,8 @@
   "entity.minecraft.cow": "Comrade Cow",
   "entity.minecraft.donkey": "Comrade Donkey",
   "entity.minecraft.goat": "Comrade Goat",
-  "entity.minecraft.horse": "Comrade Horse",
+  "entity.minecraft.horse": "Comrade Snorse",
+  "entity.minecraft.zombie_horse": "Comrade Zombie Snorse",
   "entity.minecraft.pig": "Comrade Pig",
   "entity.minecraft.player": "Comrade",
   "entity.minecraft.sheep": "Comrade Sheep",
