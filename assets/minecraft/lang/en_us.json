@@ -185,9 +185,7 @@
   "advancements.ldars.vegan_white_bed.description": "Taking the idiom literally. Sweet dreams!",
   "advancements.ldars.vegan_white_carpet.title": "A rug for the masses!",
   "advancements.ldars.vegan_white_carpet.description": "Not suitable for bootlickers!",
-
-
-
+  
   "name.item.ldars.vegan.egg": "Vegan Egg",
   "name.item.ldars.vegan.leather_leggins": "Vegan Leather Leggins",
   "name.item.ldars.vegan.leather_chestplate": "Vegan Leather Chestplate",
@@ -200,6 +198,32 @@
   "name.item.ldars.vegan.feather": "Feather Substitute",
   "name.item.ldars.vegan.dandoline_honey": "Vegan Dandelion Honey",
   "name.item.ldars.vegan.honey_comb": "Vegan Honeycomb",
+  
+  "advancements.ldars.ground_zero.root.title": "LDARS: GROUND ZERO",
+  "advancements.ldars.ground_zero.root.description": "LDARS: GROUND ZERO",
+  "advancements.ldars.ground_zero.irradiated.title": "Dangerous Encounter",
+  "advancements.ldars.ground_zero.irradiated.description": "Get attacked by a radioactively contaminated creature.",
+  "advancements.ldars.ground_zero.kill_spider.title": "Udderly Terrifying",
+  "advancements.ldars.ground_zero.kill_spider.description": "Kill the Spider-Cow!",
+  "advancements.ldars.ground_zero.kill_jungle_mobs.title": "Against all Odds",
+  "advancements.ldars.ground_zero.kill_jungle_mobs.description": "Slay the Spider-Cow, the Touch-Me-Not and the Botfly",
+  "advancements.ldars.ground_zero.healer_level_3.title": "USMLE Approved!",
+  "advancements.ldars.ground_zero.healer_level_3.description": "Get your Medikit",
+  "advancements.ldars.ground_zero.healer_level_4.title": "Imagined Dragons",
+  "advancements.ldars.ground_zero.healer_level_4.description": "Right-click another player with the Rad-Away-Serum",
+  "advancements.ldars.ground_zero.healer_level_5.title": "House, M.D.",
+  "advancements.ldars.ground_zero.healer_level_5.description": "Use the Stim-Juice to safe another players life!",
+  "advancements.ldars.ground_zero.healer_level_10.title": "Socialist Healthcare-System",
+  "advancements.ldars.ground_zero.healer_level_10.description": "Unlock the Shielding-Zone!",
+  "advancements.ldars.ground_zero.healer_craft_1.title": "My Chemical Romance",
+  "advancements.ldars.ground_zero.healer_craft_1.description": "Craft a Healing-Potion!",
+  "advancements.ldars.ground_zero.healer_craft_10.title": "Double Stocked Up on a Thursday Afternoon!",
+  "advancements.ldars.ground_zero.healer_craft_10.description": "Craft 10 Healing-Potions!",
+  "advancements.ldars.ground_zero.healer_craft_50.title": "Jesse, We Need to Cook",
+  "advancements.ldars.ground_zero.healer_craft_50.description": "Craft 50 Healing-Potions!",
+  "advancements.ldars.ground_zero.healer_craft_100.title": "Big Pharma",
+  "advancements.ldars.ground_zero.healer_craft_100.description": "Craft 100 Healing-Potions! - Are you going for mass-production or something?",
+  
   
   "item.minecraft.music_disc_stal.desc": "Bundeswehr - Du Bist ich allein",
   "jukebox_song.minecraft.stal":"Bundeswehr - Du Bist Nicht Allein",
