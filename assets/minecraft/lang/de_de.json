@@ -132,6 +132,10 @@
   "item.ldars.mobs.spidercow_spawn_egg": "Spinnerkuh-Spawn-Ei",
   "item.ldars.mobs.oink_spawn_egg": "Oink-Spawn-Ei",
   
+  "attribute.name.horse.jump_strength": "Schnerdhüpfkraft",
+  "entity.minecraft.skeleton_horse": "Fahrrad",
+  "item.ldars.bicycle_key": "Fahrrad-Schlüssel",
+
   "gui.ldars.chat.notification": "Du hast nicht die Berechtigungen, um anderen Spielern eine Nachricht zu senden! Nutze /msg <Name> <Nachricht> um dem Orga-Team zu schreiben.",
   "gui.ldars.revive.fail.notification": "Du kannst diesen Spieler grade nicht Stabilisieren %s Sekunden verbleibend",
 
@@ -251,7 +255,8 @@
   "entity.minecraft.cow": "Genoss:in Kuh",
   "entity.minecraft.donkey": "Genoss:in Esel",
   "entity.minecraft.goat": "Genoss:in Ziege",
-  "entity.minecraft.horse": "Genoss:in Pferd",
+  "entity.minecraft.horse": "Genoss:in Schnerd",
+  "entity.minecraft.zombie_horse": "Genoss:in Zombie Schnerd",
   "entity.minecraft.pig": "Genoss:in Schweinchen",
   "entity.minecraft.player": "Genoss:in",
   "entity.minecraft.sheep": "Genoss:in Schaf",
