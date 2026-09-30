@@ -338,7 +338,14 @@
   "advancements.husbandry.breed_an_animal.title": "Free Range Farming",
   "advancements.adventure.kill_a_mob.description": "Kill any hostile monster",
   "advancements.adventure.kill_a_mob.title": "Eliminating Class Enemies",
-  
+
+  "block.minecraft.purpur_block": "Popo Block",
+  "block.minecraft.purpur_slab": "Popo Slab",
+  "block.minecraft.purpur_stairs": "Popo Stairs",
+
+  "block.minecraft.cocoa": "Rothosnut",
+  "item.minecraft.cookie": "Rothus Cookie",
+
   "item.minecraft.mojang_banner_pattern.new": "Wheel Banner Pattern",
   "item.minecraft.mojang_banner_pattern.dsc": "Wheel",
   "block.minecraft.banner.mojang.black": "Black Wheel",
@@ -446,10 +453,6 @@
   "block.minecraft.banner.rhombus.white": "White Moon",
   "block.minecraft.banner.rhombus.yellow": "Yellow Moon",
 
-  "block.minecraft.purpur_block": "Popo Block",
-  "block.minecraft.purpur_slab": "Popo Slab",
-  "block.minecraft.purpur_stairs": "Popo Stairs",
-  
   "container.enderchest": "Backpack",
   
   "multiplayer.status.no_connection": "(ping gehört nun dem Volk)",

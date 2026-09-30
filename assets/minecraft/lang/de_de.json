@@ -339,6 +339,9 @@
   "block.minecraft.purpur_block": "Popoblock",
   "block.minecraft.purpur_slab": "Popostufe",
   "block.minecraft.purpur_stairs": "Popotreppe",
+
+  "block.minecraft.cocoa": "Rothosnuss",
+  "item.minecraft.cookie": "Rothus-Keks",
   
   "item.minecraft.mojang_banner_pattern.new": "Rad Bannervorlage",
   "item.minecraft.mojang_banner_pattern.dsc": "Rad",
