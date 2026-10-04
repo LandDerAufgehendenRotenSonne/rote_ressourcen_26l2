@@ -1,0 +1,23 @@
+{
+    "model": {
+        "type": "minecraft:composite",
+        "models": [
+            {
+                "type": "minecraft:model",
+                "model": "ldars:item/subway/tunnel_segment"
+            },
+            {
+                "type": "minecraft:model",
+                "model": "ldars:item/subway/tunnel_segment_mirror_x"
+            },
+            {
+                "type": "minecraft:model",
+                "model": "ldars:item/subway/tunnel_segment_mirror_y"
+            },
+            {
+                "type": "minecraft:model",
+                "model": "ldars:item/subway/tunnel_segment_mirror_xy"
+            }
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "parent": "ldars:item/subway/tunnel_segment",
+	"display": {
+		"gui": {
+			"rotation": [45, -45, 0],
+			"translation": [0.25, -2.25, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"head": {
+			"translation": [-17, 0, 16]
+		}
+	}
+}
