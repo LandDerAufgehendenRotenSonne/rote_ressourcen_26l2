@@ -270,6 +270,10 @@
   "jukebox_song.minecraft.11":"Dekarldent - Deutschland, Volk, Bier",
   "item.minecraft.music_disc_otherside.desc": "Extrem Kleiner Schwämmel - Helm über Herz",
   "jukebox_song.minecraft.otherside":"Extrem Kleiner Schwämmel - Helm über Herz",
+  "item.minecraft.music_disc_lava_chicken.desc": "Bodo Wartke - Grundgesetz",
+  "jukebox_song.minecraft.lava_chicken":"Bodo Wartke - Grundgesetz",
+  "item.minecraft.music_disc_far.desc": "Ernst Busch - Der heimliche Aufmarsch",
+  "jukebox_song.minecraft.far":"Ernst Busch - Der heimliche Aufmarsch",
   
   
   "entity.minecraft.chicken": "Comrade Chicken",
