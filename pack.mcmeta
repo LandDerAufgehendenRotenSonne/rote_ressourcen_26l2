@@ -8,8 +8,8 @@
       75
     ],
     "description": [
-      {"text": "LDARS:","color": "#ae0000"},
-      {"text": " Ground Zero","color": "#d4ff36","bold": true},
+      {"text": "LDARS:","color": "#C13E4F"},
+      {"text": " Ground Zero","color": "#9CE564","bold": true},
       {"text": "\n(2026, v0.00, ","color": "dark_gray"},
       {"player": "violmia","color": "white","hover_event": {"action": "show_text","value": "Violmia"}},
       {"player": "Monsbot","color": "white","click_event": {"action": "open_url","url": "https://youtu.be/_DVrDv_zJo8"},"hover_event": {"action": "show_text","value": "Mons"}},
