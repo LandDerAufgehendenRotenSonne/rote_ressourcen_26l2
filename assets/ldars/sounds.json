@@ -37,6 +37,20 @@
       }
     ]
   },
+  "revive/bell": {
+    "sounds": [
+      {
+        "name": "ldars:revive/bell"
+      }
+    ]
+  },
+  "revive/laser": {
+    "sounds": [
+      {
+        "name": "ldars:revive/laser"
+      }
+    ]
+  },
   "bunker/sewer_ambience": {
     "sounds": [
       {
