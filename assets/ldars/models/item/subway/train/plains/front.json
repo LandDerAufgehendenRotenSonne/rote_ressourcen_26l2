@@ -1,0 +1,21 @@
+{
+	"parent": "ldars:item/subway/train/template",
+	"textures": {
+		"pillar": "block/quartz_block_side",
+		"front_pillar": "block/quartz_block_side",
+		"stairs": "block/quartz_block_bottom",
+		"main_slab_sides": "block/smooth_stone_slab_side",
+		"main_slab_top": "block/smooth_stone",
+		"main_slab_special": "block/smooth_stone",
+		"stripe_slab": "block/smooth_stone",
+		"wall": "block/stone_bricks",
+		"front_center_stair": "block/quartz_block_bottom",
+		"front_center_block": "ldars:block/nothing"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 0, 0],
+			"translation": [0, 0, -15]
+		}
+	}
+}

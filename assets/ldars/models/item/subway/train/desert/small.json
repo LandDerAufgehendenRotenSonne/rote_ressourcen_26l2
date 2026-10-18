@@ -1,0 +1,21 @@
+{
+	"parent": "ldars:item/subway/train/template_small",
+	"textures": {
+		"pillar": "block/cut_red_sandstone",
+		"front_pillar": "block/red_sandstone_top",
+		"stairs": "block/red_sandstone_top",
+		"main_slab_sides": "block/polished_deepslate",
+		"main_slab_top": "block/polished_deepslate",
+		"main_slab_special": "block/polished_deepslate",
+		"stripe_slab": "block/red_sandstone_top",
+		"wall": "block/polished_deepslate",
+		"front_center_block": "ldars:block/nothing",
+		"front_center_stair": "block/red_sandstone_top"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 0, 0],
+			"translation": [0, 0, -15]
+		}
+	}
+}

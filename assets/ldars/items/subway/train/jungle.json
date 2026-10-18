@@ -4,11 +4,11 @@
         "models": [
             {
                 "type": "minecraft:model",
-                "model": "ldars:item/subway/wagon"
+                "model": "ldars:item/subway/train/jungle/front"
             },
             {
                 "type": "minecraft:model",
-                "model": "ldars:item/subway/interior"
+                "model": "ldars:item/subway/train/jungle/back"
             }
         ]
     }
