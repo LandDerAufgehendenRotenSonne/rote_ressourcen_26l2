@@ -1,0 +1,8 @@
+{
+    "parent": "ldars:item/subway/tunnel/segment",
+	"display": {
+		"head": {
+			"translation": [-17, 0, 16]
+		}
+	}
+}

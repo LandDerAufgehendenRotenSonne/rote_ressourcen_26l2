@@ -1,0 +1,27 @@
+{
+    "parent": "ldars:item/subway/train/template",
+	"textures": {
+		"pillar": "block/stripped_pale_oak_log",
+		"front_pillar": "block/stripped_pale_oak_log",
+		"stairs": "block/mangrove_planks",
+		"main_slab_sides": "block/quartz_block_bottom",
+		"main_slab_top": "block/quartz_block_bottom",
+		"main_slab_special": "block/quartz_block_side",
+		"stripe_slab": "block/polished_blackstone",
+		"wall": "block/red_nether_bricks",
+		"front_center_stair": "ldars:block/nothing",
+		"front_center_block": "block/stripped_pale_oak_log",
+		
+		"junction_sides": "ldars:block/nothing",
+		"junction_top": "ldars:block/nothing",
+		"junction_door_bottom": "ldars:block/nothing",
+		"junction_door_top": "ldars:block/nothing"
+	
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0],
+			"translation": [0, 0, 15]
+		}
+	}
+}

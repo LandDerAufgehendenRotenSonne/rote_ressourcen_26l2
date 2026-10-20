@@ -4,19 +4,19 @@
         "models": [
             {
                 "type": "minecraft:model",
-                "model": "ldars:item/subway/tunnel_segment"
+                "model": "ldars:item/subway/tunnel/segment"
             },
             {
                 "type": "minecraft:model",
-                "model": "ldars:item/subway/tunnel_segment_mirror_x"
+                "model": "ldars:item/subway/tunnel/segment_mirror_x"
             },
             {
                 "type": "minecraft:model",
-                "model": "ldars:item/subway/tunnel_segment_mirror_y"
+                "model": "ldars:item/subway/tunnel/segment_mirror_y"
             },
             {
                 "type": "minecraft:model",
-                "model": "ldars:item/subway/tunnel_segment_mirror_xy"
+                "model": "ldars:item/subway/tunnel/segment_mirror_xy"
             }
         ]
     }

@@ -1,6 +1,6 @@
 {
     "model": {
         "type": "minecraft:model",
-        "model": "ldars:item/subway/wagon"
+        "model": "ldars:item/subway/train/plains/small"
     }
 }
