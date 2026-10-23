@@ -74,6 +74,7 @@
   "advancements.ldars.bunker.description.spawn": "Willkommen bei LDARS - Ground Zero!",
   "advancements.ldars.bunker.name.open_door": "Öffnet die Türen",
   "advancements.ldars.bunker.description.open_door": "Nun erzähle deine Geschichte",
+  "subtitles.ldars.bunker.alarm": "Alarm Beep",
  
   "name.item.ldars.zionist_plum": "Unholy™ Zionisten Zwetschge",
   "name.item.ldars.pali_peach": "Unholy™ Pali Pfirsich",
@@ -285,10 +286,6 @@
   "block.minecraft.purpur_block": "Popoblock",
   "block.minecraft.purpur_slab": "Popostufe",
   "block.minecraft.purpur_stairs": "Popotreppe",
-
-  "block.minecraft.cocoa": "Rothosnuss",
-  "item.minecraft.cocoa_beans": "Rothosnuss",
-  "item.minecraft.cookie": "Rothos-Keks",
   
   "item.minecraft.mojang_banner_pattern.new": "Rad Bannervorlage",
   "item.minecraft.mojang_banner_pattern.dsc": "Rad",

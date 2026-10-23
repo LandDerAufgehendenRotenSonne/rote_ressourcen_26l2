@@ -137,7 +137,8 @@
       {
         "name": "ldars:bunker/sfx/alarm_background"
       }
-    ]
+    ],
+	"subtitle": "subtitles.ldars.bunker.alarm"
   },
   "bunker/sfx/fire_bell": {
     "sounds": [

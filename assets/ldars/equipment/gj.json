@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "ldars:gj"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "ldars:gj"
+      }
+    ]
+  }
+}
