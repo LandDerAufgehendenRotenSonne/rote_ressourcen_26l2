@@ -1,0 +1,6 @@
+{
+	"parent": "ldars:item/subway/computer/default",
+	"textures": {
+		"0": "ldars:item/subway/computer/error"
+	}
+}
