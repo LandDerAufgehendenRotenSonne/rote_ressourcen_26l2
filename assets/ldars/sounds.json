@@ -1256,5 +1256,105 @@
         "name": "ldars:bunker/eclipse/system_message/schleusen/schleuse_wird_verriegelt-34t"
       }
     ]
+  },
+
+  "subway/arrive": {
+    "sounds": [
+      {
+        "name": "ldars:subway/arrive"
+      }
+    ]
+  },
+  "subway/depart": {
+    "sounds": [
+      {
+        "name": "ldars:subway/depart"
+      }
+    ]
+  },
+  "subway/door_beep": {
+    "sounds": [
+      {
+        "name": "ldars:subway/door_beep"
+      }
+    ]
+  },
+
+  "subway/zorba_sirtaki/full": {
+    "sounds": [
+      {
+        "name": "ldars:subway/zorba_sirtaki/full"
+      }
+    ]
+  },
+  "subway/zorba_sirtaki/0": {
+    "sounds": [
+      {
+        "name": "ldars:subway/zorba_sirtaki/0"
+      }
+    ]
+  },
+  "subway/zorba_sirtaki/1": {
+  "sounds": [
+    {
+      "name": "ldars:subway/zorba_sirtaki/1"
+    }
+  ]
+},
+"subway/zorba_sirtaki/2": {
+  "sounds": [
+    {
+      "name": "ldars:subway/zorba_sirtaki/2"
+    }
+  ]
+},
+"subway/zorba_sirtaki/3": {
+  "sounds": [
+    {
+      "name": "ldars:subway/zorba_sirtaki/3"
+    }
+  ]
+},
+"subway/zorba_sirtaki/4": {
+  "sounds": [
+    {
+      "name": "ldars:subway/zorba_sirtaki/4"
+    }
+  ]
+},
+"subway/zorba_sirtaki/5": {
+  "sounds": [
+    {
+      "name": "ldars:subway/zorba_sirtaki/5"
+    }
+  ]
+},
+"subway/zorba_sirtaki/6": {
+  "sounds": [
+    {
+      "name": "ldars:subway/zorba_sirtaki/6"
+    }
+  ]
+},
+"subway/zorba_sirtaki/7": {
+  "sounds": [
+    {
+      "name": "ldars:subway/zorba_sirtaki/7"
+    }
+  ]
+},
+"subway/zorba_sirtaki/8": {
+  "sounds": [
+    {
+      "name": "ldars:subway/zorba_sirtaki/8"
+    }
+  ]
+},
+  "subway/zorba_sirtaki/9": {
+    "sounds": [
+      {
+        "name": "ldars:subway/zorba_sirtaki/9"
+      }
+    ]
   }
 }
