@@ -41,7 +41,7 @@
     "sounds": [
       {
         "name": "ldars:bunker/sewer_ambience",
-		"stream": true
+        "stream": true
       }
     ]
   },
@@ -56,7 +56,7 @@
     "sounds": [
       {
         "name": "ldars:bunker/opening_alarm",
-		"stream": true
+        "stream": true
       }
     ]
   },
@@ -64,7 +64,7 @@
     "sounds": [
       {
         "name": "ldars:bunker/eclipse/system_message/eclipse_crash-558t",
-		"stream": true
+        "stream": true
       }
     ]
   },
@@ -72,7 +72,7 @@
     "sounds": [
       {
         "name": "ldars:bunker/opening_mechanical",
-		"stream": true
+        "stream": true
       }
     ]
   },
@@ -138,7 +138,7 @@
         "name": "ldars:bunker/sfx/alarm_background"
       }
     ],
-	"subtitle": "subtitles.ldars.bunker.alarm"
+    "subtitle": "subtitles.ldars.bunker.alarm"
   },
   "bunker/sfx/fire_bell": {
     "sounds": [
@@ -1257,7 +1257,6 @@
       }
     ]
   },
-
   "subway/arrive": {
     "sounds": [
       {
@@ -1279,6 +1278,231 @@
       }
     ]
   },
+  "subway/idle": {
+    "sounds": [
+      {
+        "name": "ldars:subway/idle"
+      }
+    ]
+  },
+  "subway/tunnels/full": {
+    "sounds": [
+      {
+        "name": "ldars:subway/tunnels/full"
+      }
+    ]
+  },
+  "subway/tunnels/0": {
+    "sounds": [
+      {
+        "name": "ldars:subway/tunnels/0"
+      }
+    ]
+  },
+  "subway/tunnels/1": {
+    "sounds": [
+      {
+        "name": "ldars:subway/tunnels/1"
+      }
+    ]
+  },
+  "subway/tunnels/2": {
+    "sounds": [
+      {
+        "name": "ldars:subway/tunnels/2"
+      }
+    ]
+  },
+  "subway/tunnels/3": {
+    "sounds": [
+      {
+        "name": "ldars:subway/tunnels/3"
+      }
+    ]
+  },
+  "subway/tunnels/4": {
+    "sounds": [
+      {
+        "name": "ldars:subway/tunnels/4"
+      }
+    ]
+  },
+  "subway/tunnels/5": {
+    "sounds": [
+      {
+        "name": "ldars:subway/tunnels/5"
+      }
+    ]
+  },
+  "subway/tunnels/6": {
+    "sounds": [
+      {
+        "name": "ldars:subway/tunnels/6"
+      }
+    ]
+  },
+  "subway/tunnels/7": {
+    "sounds": [
+      {
+        "name": "ldars:subway/tunnels/7"
+      }
+    ]
+  },
+  "subway/tunnels/8": {
+    "sounds": [
+      {
+        "name": "ldars:subway/tunnels/8"
+      }
+    ]
+  },
+  "subway/tunnels/9": {
+    "sounds": [
+      {
+        "name": "ldars:subway/tunnels/9"
+      }
+    ]
+  },
+  "subway/tunnels/10": {
+    "sounds": [
+      {
+        "name": "ldars:subway/tunnels/10"
+      }
+    ]
+  },
+  "subway/tunnels/11": {
+    "sounds": [
+      {
+        "name": "ldars:subway/tunnels/11"
+      }
+    ]
+  },
+  "subway/tunnels/12": {
+    "sounds": [
+      {
+        "name": "ldars:subway/tunnels/12"
+      }
+    ]
+  },
+  "subway/tunnels/13": {
+    "sounds": [
+      {
+        "name": "ldars:subway/tunnels/13"
+      }
+    ]
+  },
+  "subway/tunnels/14": {
+    "sounds": [
+      {
+        "name": "ldars:subway/tunnels/14"
+      }
+    ]
+  },
+  "subway/tunnels/15": {
+    "sounds": [
+      {
+        "name": "ldars:subway/tunnels/15"
+      }
+    ]
+  },
+  "subway/tunnels/16": {
+    "sounds": [
+      {
+        "name": "ldars:subway/tunnels/16"
+      }
+    ]
+  },
+  "subway/tunnels/17": {
+    "sounds": [
+      {
+        "name": "ldars:subway/tunnels/17"
+      }
+    ]
+  },
+  "subway/tunnels/18": {
+    "sounds": [
+      {
+        "name": "ldars:subway/tunnels/18"
+      }
+    ]
+  },
+  "subway/tunnels/19": {
+    "sounds": [
+      {
+        "name": "ldars:subway/tunnels/19"
+      }
+    ]
+  },
+
+  "subway/announcements/gong": {
+    "sounds": [
+      {
+        "name": "ldars:subway/announcements/gong"
+      }
+    ]
+  },
+  "subway/announcements/doors_closing": {
+    "sounds": [
+      {
+        "name": "ldars:subway/announcements/doors_closing"
+      }
+    ]
+  },
+  "subway/announcements/error": {
+    "sounds": [
+      {
+        "name": "ldars:subway/announcements/error"
+      }
+    ]
+  },
+  "subway/announcements/theas": {
+    "sounds": [
+      {
+        "name": "ldars:subway/announcements/theas"
+      }
+    ]
+  },
+  "subway/announcements/lindja": {
+    "sounds": [
+      {
+        "name": "ldars:subway/announcements/lindja"
+      }
+    ]
+  },
+  "subway/announcements/sole": {
+    "sounds": [
+      {
+        "name": "ldars:subway/announcements/sole"
+      }
+    ]
+  },
+  "subway/announcements/exit_on_the": {
+    "sounds": [
+      {
+        "name": "ldars:subway/announcements/exit_on_the"
+      }
+    ]
+  },
+  "subway/announcements/left": {
+    "sounds": [
+      {
+        "name": "ldars:subway/announcements/left"
+      }
+    ]
+  },
+  "subway/announcements/right": {
+    "sounds": [
+      {
+        "name": "ldars:subway/announcements/right"
+      }
+    ]
+  },
+  "subway/announcements/side_of_travel": {
+    "sounds": [
+      {
+        "name": "ldars:subway/announcements/side_of_travel"
+      }
+    ]
+  },
 
   "subway/zorba_sirtaki/full": {
     "sounds": [
@@ -1295,61 +1519,61 @@
     ]
   },
   "subway/zorba_sirtaki/1": {
-  "sounds": [
-    {
-      "name": "ldars:subway/zorba_sirtaki/1"
-    }
-  ]
-},
-"subway/zorba_sirtaki/2": {
-  "sounds": [
-    {
-      "name": "ldars:subway/zorba_sirtaki/2"
-    }
-  ]
-},
-"subway/zorba_sirtaki/3": {
-  "sounds": [
-    {
-      "name": "ldars:subway/zorba_sirtaki/3"
-    }
-  ]
-},
-"subway/zorba_sirtaki/4": {
-  "sounds": [
-    {
-      "name": "ldars:subway/zorba_sirtaki/4"
-    }
-  ]
-},
-"subway/zorba_sirtaki/5": {
-  "sounds": [
-    {
-      "name": "ldars:subway/zorba_sirtaki/5"
-    }
-  ]
-},
-"subway/zorba_sirtaki/6": {
-  "sounds": [
-    {
-      "name": "ldars:subway/zorba_sirtaki/6"
-    }
-  ]
-},
-"subway/zorba_sirtaki/7": {
-  "sounds": [
-    {
-      "name": "ldars:subway/zorba_sirtaki/7"
-    }
-  ]
-},
-"subway/zorba_sirtaki/8": {
-  "sounds": [
-    {
-      "name": "ldars:subway/zorba_sirtaki/8"
-    }
-  ]
-},
+    "sounds": [
+      {
+        "name": "ldars:subway/zorba_sirtaki/1"
+      }
+    ]
+  },
+  "subway/zorba_sirtaki/2": {
+    "sounds": [
+      {
+        "name": "ldars:subway/zorba_sirtaki/2"
+      }
+    ]
+  },
+  "subway/zorba_sirtaki/3": {
+    "sounds": [
+      {
+        "name": "ldars:subway/zorba_sirtaki/3"
+      }
+    ]
+  },
+  "subway/zorba_sirtaki/4": {
+    "sounds": [
+      {
+        "name": "ldars:subway/zorba_sirtaki/4"
+      }
+    ]
+  },
+  "subway/zorba_sirtaki/5": {
+    "sounds": [
+      {
+        "name": "ldars:subway/zorba_sirtaki/5"
+      }
+    ]
+  },
+  "subway/zorba_sirtaki/6": {
+    "sounds": [
+      {
+        "name": "ldars:subway/zorba_sirtaki/6"
+      }
+    ]
+  },
+  "subway/zorba_sirtaki/7": {
+    "sounds": [
+      {
+        "name": "ldars:subway/zorba_sirtaki/7"
+      }
+    ]
+  },
+  "subway/zorba_sirtaki/8": {
+    "sounds": [
+      {
+        "name": "ldars:subway/zorba_sirtaki/8"
+      }
+    ]
+  },
   "subway/zorba_sirtaki/9": {
     "sounds": [
       {
