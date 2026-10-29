@@ -16,6 +16,7 @@
       {"player": "JT_Plays","color": "white","hover_event": {"action": "show_text","value": "Jeugeo"}},
       {"player": "Bluestone4","color": "white","click_event": {"action": "open_url","url": "https://youtu.be/dQw4w9WgXcQ"},"hover_event": {"action": "show_text","value": "Bluestone"}},
       {"player": "Miotaw","color": "white","click_event": {"action": "open_url","url": "https://youtu.be/dQw4w9WgXcQ"},"hover_event": {"action": "show_text","value": "Mio"}},
+      {"player": "xKaida","color": "white","click_event": {"action": "open_url","url": "https://youtu.be/dQw4w9WgXcQ"},"hover_event": {"action": "show_text","value": "Maddy"}},
       {"text": ")","color": "dark_gray"}
     ]
   }
