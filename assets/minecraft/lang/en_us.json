@@ -398,5 +398,24 @@
   "container.enderchest": "Backpack",
   
   "multiplayer.status.no_connection": "(ping gehört nun dem Volk)",
-  "menu.game": "\uEF00\uEF11\uEF01\uEF10\uEF02\uEF11\uEF03"
+  "menu.game": "\uEF00\uEF11\uEF01\uEF10\uEF02\uEF11\uEF03",
+
+
+  "ldars.subway.sound.arrive": "Train arrives",
+  "ldars.subway.sound.depart": "Train departs",
+  "ldars.subway.sound.door_beep": "Train: beep beep beep",
+  "ldars.subway.sound.idle": "Train: vrrrrrr",
+  "ldars.subway.sound.tunnels": "Subway driving",
+  "ldars.subway.sound.zorba_sirtaki": "Station: Zorba Sirtaki",
+  "ldars.subway.sound.announcements.doors_closing": "Train: Doors closing",
+  "ldars.subway.sound.announcements.error": "Train: §kYourmom",
+  "ldars.subway.sound.announcements.theas": "Train: Theas",
+  "ldars.subway.sound.announcements.lindja": "Train: Lindja",
+  "ldars.subway.sound.announcements.sole": "Train: Søle",
+  "ldars.subway.sound.announcements.exit_on_the": "Train: Exit on the...",
+  "ldars.subway.sound.announcements.left": "Train: Left",
+  "ldars.subway.sound.announcements.right": "Train: Right",
+  "ldars.subway.sound.announcements.direction_of_travel": "Train: ...in direction of travel",
+  "ldars.subway.sound.announcements.numbers": "THE CARROTS KNOW WHAT YOU DID",
+  "ldars.subway.sound.backrooms_buzz": "Flourecent lights buzzing"
 }

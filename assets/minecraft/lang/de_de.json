@@ -69,7 +69,7 @@
   "advancements.ldars.pneumatic_tube_system.description.spam3": "Habe 27 Rohrpostbüchsen in der Empfangskiste",
   "advancements.ldars.pneumatic_tube_system.name.letter": "Ein Brief für mich",
   "advancements.ldars.pneumatic_tube_system.description.letter": "Crafte einen Brief",
-  
+
   "advancements.ldars.bunker.name.spawn": "Öffne die Augen",
   "advancements.ldars.bunker.description.spawn": "Willkommen bei LDARS - Ground Zero!",
   "advancements.ldars.bunker.name.open_door": "Öffnet die Türen",
@@ -397,5 +397,23 @@
   "container.enderchest": "Rucksack",
   
   "multiplayer.status.no_connection": "(ping gehört nun dem Volk)",
-  "menu.game": "\uEF00\uEF11\uEF01\uEF10\uEF02\uEF11\uEF03"
+  "menu.game": "\uEF00\uEF11\uEF01\uEF10\uEF02\uEF11\uEF03",
+
+  "ldars.subway.sound.arrive": "Zug fährt ein",
+  "ldars.subway.sound.depart": "Zug fährt ab",
+  "ldars.subway.sound.door_beep": "Bahn: piep piep piep",
+  "ldars.subway.sound.idle": "Bahn: vrrrrrr",
+  "ldars.subway.sound.tunnels": "U-Bahn Fahrt Geräusche",
+  "ldars.subway.sound.zorba_sirtaki": "Bahnhof: Zorba Sirtaki",
+  "ldars.subway.sound.announcements.doors_closing": "Bahn: Türen schließen",
+  "ldars.subway.sound.announcements.error": "Bahn: §kHauptbahnhof",
+  "ldars.subway.sound.announcements.theas": "Bahn: Theas",
+  "ldars.subway.sound.announcements.lindja": "Bahn: Lindja",
+  "ldars.subway.sound.announcements.sole": "Bahn: Søle",
+  "ldars.subway.sound.announcements.exit_on_the": "Bahn: Ausstieg...",
+  "ldars.subway.sound.announcements.left": "Bahn: Links",
+  "ldars.subway.sound.announcements.right": "Bahn: Rechts",
+  "ldars.subway.sound.announcements.direction_of_travel": "Bahn: ...in Fahrtrichtung",
+  "ldars.subway.sound.announcements.numbers": "DIE KAROTTEN WISSEN WAS DU GETAN HAST",
+  "ldars.subway.sound.backrooms_buzz": "Leuchtstoffröhren summen"
 }

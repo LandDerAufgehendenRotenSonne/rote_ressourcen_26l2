@@ -1258,6 +1258,7 @@
     ]
   },
   "subway/arrive": {
+    "subtitle": "ldars.subway.sound.arrive",
     "sounds": [
       {
         "name": "ldars:subway/arrive"
@@ -1265,6 +1266,7 @@
     ]
   },
   "subway/depart": {
+    "subtitle": "ldars.subway.sound.depart",
     "sounds": [
       {
         "name": "ldars:subway/depart"
@@ -1272,6 +1274,7 @@
     ]
   },
   "subway/door_beep": {
+    "subtitle": "ldars.subway.sound.door_beep",
     "sounds": [
       {
         "name": "ldars:subway/door_beep"
@@ -1279,6 +1282,7 @@
     ]
   },
   "subway/idle": {
+    "subtitle": "ldars.subway.sound.idle",
     "sounds": [
       {
         "name": "ldars:subway/idle"
@@ -1286,6 +1290,7 @@
     ]
   },
   "subway/tunnels/full": {
+    "subtitle": "ldars.subway.sound.tunnels",
     "sounds": [
       {
         "name": "ldars:subway/tunnels/full"
@@ -1293,6 +1298,7 @@
     ]
   },
   "subway/tunnels/0": {
+    "subtitle": "ldars.subway.sound.tunnels",
     "sounds": [
       {
         "name": "ldars:subway/tunnels/0"
@@ -1300,6 +1306,7 @@
     ]
   },
   "subway/tunnels/1": {
+    "subtitle": "ldars.subway.sound.tunnels",
     "sounds": [
       {
         "name": "ldars:subway/tunnels/1"
@@ -1307,6 +1314,7 @@
     ]
   },
   "subway/tunnels/2": {
+    "subtitle": "ldars.subway.sound.tunnels",
     "sounds": [
       {
         "name": "ldars:subway/tunnels/2"
@@ -1314,6 +1322,7 @@
     ]
   },
   "subway/tunnels/3": {
+    "subtitle": "ldars.subway.sound.tunnels",
     "sounds": [
       {
         "name": "ldars:subway/tunnels/3"
@@ -1321,6 +1330,7 @@
     ]
   },
   "subway/tunnels/4": {
+    "subtitle": "ldars.subway.sound.tunnels",
     "sounds": [
       {
         "name": "ldars:subway/tunnels/4"
@@ -1328,6 +1338,7 @@
     ]
   },
   "subway/tunnels/5": {
+    "subtitle": "ldars.subway.sound.tunnels",
     "sounds": [
       {
         "name": "ldars:subway/tunnels/5"
@@ -1335,6 +1346,7 @@
     ]
   },
   "subway/tunnels/6": {
+    "subtitle": "ldars.subway.sound.tunnels",
     "sounds": [
       {
         "name": "ldars:subway/tunnels/6"
@@ -1342,6 +1354,7 @@
     ]
   },
   "subway/tunnels/7": {
+    "subtitle": "ldars.subway.sound.tunnels",
     "sounds": [
       {
         "name": "ldars:subway/tunnels/7"
@@ -1349,6 +1362,7 @@
     ]
   },
   "subway/tunnels/8": {
+    "subtitle": "ldars.subway.sound.tunnels",
     "sounds": [
       {
         "name": "ldars:subway/tunnels/8"
@@ -1356,6 +1370,7 @@
     ]
   },
   "subway/tunnels/9": {
+    "subtitle": "ldars.subway.sound.tunnels",
     "sounds": [
       {
         "name": "ldars:subway/tunnels/9"
@@ -1363,6 +1378,7 @@
     ]
   },
   "subway/tunnels/10": {
+    "subtitle": "ldars.subway.sound.tunnels",
     "sounds": [
       {
         "name": "ldars:subway/tunnels/10"
@@ -1370,6 +1386,7 @@
     ]
   },
   "subway/tunnels/11": {
+    "subtitle": "ldars.subway.sound.tunnels",
     "sounds": [
       {
         "name": "ldars:subway/tunnels/11"
@@ -1377,6 +1394,7 @@
     ]
   },
   "subway/tunnels/12": {
+    "subtitle": "ldars.subway.sound.tunnels",
     "sounds": [
       {
         "name": "ldars:subway/tunnels/12"
@@ -1384,6 +1402,7 @@
     ]
   },
   "subway/tunnels/13": {
+    "subtitle": "ldars.subway.sound.tunnels",
     "sounds": [
       {
         "name": "ldars:subway/tunnels/13"
@@ -1391,6 +1410,7 @@
     ]
   },
   "subway/tunnels/14": {
+    "subtitle": "ldars.subway.sound.tunnels",
     "sounds": [
       {
         "name": "ldars:subway/tunnels/14"
@@ -1398,6 +1418,7 @@
     ]
   },
   "subway/tunnels/15": {
+    "subtitle": "ldars.subway.sound.tunnels",
     "sounds": [
       {
         "name": "ldars:subway/tunnels/15"
@@ -1405,6 +1426,7 @@
     ]
   },
   "subway/tunnels/16": {
+    "subtitle": "ldars.subway.sound.tunnels",
     "sounds": [
       {
         "name": "ldars:subway/tunnels/16"
@@ -1412,6 +1434,7 @@
     ]
   },
   "subway/tunnels/17": {
+    "subtitle": "ldars.subway.sound.tunnels",
     "sounds": [
       {
         "name": "ldars:subway/tunnels/17"
@@ -1419,6 +1442,7 @@
     ]
   },
   "subway/tunnels/18": {
+    "subtitle": "ldars.subway.sound.tunnels",
     "sounds": [
       {
         "name": "ldars:subway/tunnels/18"
@@ -1426,13 +1450,13 @@
     ]
   },
   "subway/tunnels/19": {
+    "subtitle": "ldars.subway.sound.tunnels",
     "sounds": [
       {
         "name": "ldars:subway/tunnels/19"
       }
     ]
   },
-
   "subway/announcements/gong": {
     "sounds": [
       {
@@ -1441,6 +1465,7 @@
     ]
   },
   "subway/announcements/doors_closing": {
+    "subtitle": "ldars.subway.sound.announcements.doors_closing",
     "sounds": [
       {
         "name": "ldars:subway/announcements/doors_closing"
@@ -1448,6 +1473,7 @@
     ]
   },
   "subway/announcements/error": {
+    "subtitle": "ldars.subway.sound.announcements.error",
     "sounds": [
       {
         "name": "ldars:subway/announcements/error"
@@ -1455,6 +1481,7 @@
     ]
   },
   "subway/announcements/theas": {
+    "subtitle": "ldars.subway.sound.announcements.theas",
     "sounds": [
       {
         "name": "ldars:subway/announcements/theas"
@@ -1462,6 +1489,7 @@
     ]
   },
   "subway/announcements/lindja": {
+    "subtitle": "ldars.subway.sound.announcements.lindja",
     "sounds": [
       {
         "name": "ldars:subway/announcements/lindja"
@@ -1469,6 +1497,7 @@
     ]
   },
   "subway/announcements/sole": {
+    "subtitle": "ldars.subway.sound.announcements.sole",
     "sounds": [
       {
         "name": "ldars:subway/announcements/sole"
@@ -1476,6 +1505,7 @@
     ]
   },
   "subway/announcements/exit_on_the": {
+    "subtitle": "ldars.subway.sound.announcements.exit_on_the",
     "sounds": [
       {
         "name": "ldars:subway/announcements/exit_on_the"
@@ -1483,6 +1513,7 @@
     ]
   },
   "subway/announcements/left": {
+    "subtitle": "ldars.subway.sound.announcements.left",
     "sounds": [
       {
         "name": "ldars:subway/announcements/left"
@@ -1490,21 +1521,23 @@
     ]
   },
   "subway/announcements/right": {
+    "subtitle": "ldars.subway.sound.announcements.right",
     "sounds": [
       {
         "name": "ldars:subway/announcements/right"
       }
     ]
   },
-  "subway/announcements/side_of_travel": {
+  "subway/announcements/direction_of_travel": {
+    "subtitle": "ldars.subway.sound.announcements.direction_of_travel",
     "sounds": [
       {
-        "name": "ldars:subway/announcements/side_of_travel"
+        "name": "ldars:subway/announcements/direction_of_travel"
       }
     ]
   },
-
   "subway/zorba_sirtaki/full": {
+    "subtitle": "ldars.subway.sound.zorba_sirtaki",
     "sounds": [
       {
         "name": "ldars:subway/zorba_sirtaki/full"
@@ -1512,6 +1545,7 @@
     ]
   },
   "subway/zorba_sirtaki/0": {
+    "subtitle": "ldars.subway.sound.zorba_sirtaki",
     "sounds": [
       {
         "name": "ldars:subway/zorba_sirtaki/0"
@@ -1519,6 +1553,7 @@
     ]
   },
   "subway/zorba_sirtaki/1": {
+    "subtitle": "ldars.subway.sound.zorba_sirtaki",
     "sounds": [
       {
         "name": "ldars:subway/zorba_sirtaki/1"
@@ -1526,6 +1561,7 @@
     ]
   },
   "subway/zorba_sirtaki/2": {
+    "subtitle": "ldars.subway.sound.zorba_sirtaki",
     "sounds": [
       {
         "name": "ldars:subway/zorba_sirtaki/2"
@@ -1533,6 +1569,7 @@
     ]
   },
   "subway/zorba_sirtaki/3": {
+    "subtitle": "ldars.subway.sound.zorba_sirtaki",
     "sounds": [
       {
         "name": "ldars:subway/zorba_sirtaki/3"
@@ -1540,6 +1577,7 @@
     ]
   },
   "subway/zorba_sirtaki/4": {
+    "subtitle": "ldars.subway.sound.zorba_sirtaki",
     "sounds": [
       {
         "name": "ldars:subway/zorba_sirtaki/4"
@@ -1547,6 +1585,7 @@
     ]
   },
   "subway/zorba_sirtaki/5": {
+    "subtitle": "ldars.subway.sound.zorba_sirtaki",
     "sounds": [
       {
         "name": "ldars:subway/zorba_sirtaki/5"
@@ -1554,6 +1593,7 @@
     ]
   },
   "subway/zorba_sirtaki/6": {
+    "subtitle": "ldars.subway.sound.zorba_sirtaki",
     "sounds": [
       {
         "name": "ldars:subway/zorba_sirtaki/6"
@@ -1561,6 +1601,7 @@
     ]
   },
   "subway/zorba_sirtaki/7": {
+    "subtitle": "ldars.subway.sound.zorba_sirtaki",
     "sounds": [
       {
         "name": "ldars:subway/zorba_sirtaki/7"
@@ -1568,6 +1609,7 @@
     ]
   },
   "subway/zorba_sirtaki/8": {
+    "subtitle": "ldars.subway.sound.zorba_sirtaki",
     "sounds": [
       {
         "name": "ldars:subway/zorba_sirtaki/8"
@@ -1575,9 +1617,65 @@
     ]
   },
   "subway/zorba_sirtaki/9": {
+    "subtitle": "ldars.subway.sound.zorba_sirtaki",
     "sounds": [
       {
         "name": "ldars:subway/zorba_sirtaki/9"
+      }
+    ]
+  },
+  "subway/numbers": {
+    "subtitle": "ldars.subway.sound.announcements.numbers",
+    "sounds": [
+      {
+        "name": "ldars:subway/numbers/0"
+      },
+      {
+        "name": "ldars:subway/numbers/1"
+      },
+      {
+        "name": "ldars:subway/numbers/2"
+      },
+      {
+        "name": "ldars:subway/numbers/3"
+      },
+      {
+        "name": "ldars:subway/numbers/4"
+      },
+      {
+        "name": "ldars:subway/numbers/5"
+      },
+      {
+        "name": "ldars:subway/numbers/6"
+      },
+      {
+        "name": "ldars:subway/numbers/7"
+      },
+      {
+        "name": "ldars:subway/numbers/8"
+      },
+      {
+        "name": "ldars:subway/numbers/9"
+      },
+      {
+        "name": "ldars:subway/numbers/10"
+      },
+      {
+        "name": "ldars:subway/numbers/15"
+      },
+      {
+        "name": "ldars:subway/numbers/20"
+      },
+      {
+        "name": "ldars:subway/numbers/30"
+      }
+    ]
+  },
+  "subway/backrooms_buzz": {
+    "subtitle": "ldars.subway.sound.backrooms_buzz",
+    "sounds": [
+      {
+        "name": "ldars:subway/backrooms_buzz"
       }
     ]
   }
