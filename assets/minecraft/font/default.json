@@ -12,15 +12,6 @@
       "chars": [
         "\uE000"
       ]
-    },
-    {
-      "type": "bitmap",
-      "file": "ldars:flashbang.png",
-      "ascent": 1015,
-      "height": 3000,
-      "chars": [
-        "\uE001"
-      ]
     }
   ]
 }
