@@ -108,7 +108,7 @@
   "item.ldars.invisible_item_frame": "Unsichtbarer Rahmen",
   "item.ldars.invisible_glow_item_frame": "Unsichtbarer Leuchtrahmen",
 
-  "description.item.ldars.skills.farmer.food.generic.l1": "x Sättigung",
+  "description.item.ldars.skills.farmer.food.generic.l1": "%sx Sättigung",
   "description.item.ldars.skills.farmer.food.generic.l2.lvl1": "Kann bestimmte Effekte geben (Standard)",
   "description.item.ldars.skills.farmer.food.generic.l2.lvl2": "Kann bestimmte Effekte geben (Stark)",
   
