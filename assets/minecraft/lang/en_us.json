@@ -113,13 +113,6 @@
   "description.item.ldars.skills.farmer.food.generic.l2.lvl1": "Can give random effects (Standard)",
   "description.item.ldars.skills.farmer.food.generic.l2.lvl2": "Can give random effects (Strong)",
   
-  "gui.ldars.radiation.geiger_counter": "Radiation: ",
-  "gui.ldars.radiation.geiger_counter.sound_on": "Geiger Counter sound enabled",
-  "gui.ldars.radiation.geiger_counter.sound_off": "Geiger Counter sound disabled",
-  "gui.ldars.radiation.dosimeter.self": "Personal Radiation: ",
-  "gui.ldars.radiation.dosimeter.other": "Radiation: ",
-  "gui.ldars.radiation.notification": "You are feeling a bit strange...",
-  "death.ldars.radiation": "succumbed to lethal radiation",
   "gui.ldars.radiation.world_border.notification": "Thick fog is rolling in. You should turn back here.",
   "gui.ldars.radiation.infertile.notification": "This area is too radiated for plants to grow! Try it under a shelter.",
   "gui.ldars.dry.infertile.notification": "This area is too dry for plants to grow!",
