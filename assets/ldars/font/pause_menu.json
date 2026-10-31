@@ -37,6 +37,24 @@
       ]
     },
 	{
+      "type": "bitmap",
+      "file": "ldars:pause_menu/logo5.png",
+      "height": 40,
+      "ascent": -10,
+      "chars": [
+        "\uEF04"
+      ]
+    },
+	{
+      "type": "bitmap",
+      "file": "ldars:pause_menu/logo6.png",
+      "height": 40,
+      "ascent": -10,
+      "chars": [
+        "\uEF05"
+      ]
+    },
+	{
 	"type": "space",
 	"advances": {
 		"\uEF10": -169
