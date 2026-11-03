@@ -1678,5 +1678,12 @@
         "name": "ldars:subway/backrooms_buzz"
       }
     ]
+  },
+  "boom": {
+    "sounds": [
+      {
+        "name": "ldars:boom"
+      }
+    ]
   }
 }
