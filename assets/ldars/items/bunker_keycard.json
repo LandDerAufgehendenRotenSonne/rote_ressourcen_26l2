@@ -1,0 +1,18 @@
+{
+  "model": {
+    "type": "minecraft:composite",
+    "models": [
+      {
+        "type": "minecraft:model",
+        "model": "ldars:item/bunker_keycard"
+      },
+      {
+        "type": "minecraft:special",
+        "base": "ldars:item/template_bunker_keycard_skull",
+        "model": {
+          "type": "minecraft:player_head"
+        }
+      }
+    ]
+  }
+}
