@@ -1,0 +1,42 @@
+{
+  "model": {
+    "type": "minecraft:condition",
+    "on_false": {
+      "type": "minecraft:model",
+      "model": "ldars:item/drugs/rum"
+    },
+    "on_true": {
+      "type": "minecraft:range_dispatch",
+      "entries": [
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "ldars:item/drugs/rum_animation/rum_1"
+          },
+          "threshold": 0.1
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "ldars:item/drugs/rum_animation/rum_2"
+          },
+          "threshold": 0.3
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "ldars:item/drugs/rum_animation/rum_3"
+          },
+          "threshold": 0.5
+        }
+      ],
+      "fallback": {
+        "type": "minecraft:model",
+        "model": "ldars:item/drugs/rum"
+      },
+      "property": "minecraft:use_duration",
+      "scale": 0.1
+    },
+    "property": "minecraft:using_item"
+  }
+}
