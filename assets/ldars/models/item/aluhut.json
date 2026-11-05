@@ -6,7 +6,7 @@
 		64
 	],
 	"textures": {
-		"4": "ldars:aluhut"
+		"4": "ldars:item/aluhut"
 	},
 	"elements": [
 		{
