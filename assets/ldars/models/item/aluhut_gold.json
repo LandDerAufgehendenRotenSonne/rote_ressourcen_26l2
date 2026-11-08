@@ -1,0 +1,6 @@
+{
+	"parent": "ldars:item/aluhut",
+	"textures": {
+		"4": "ldars:item/aluhut_gold"
+	}
+}
